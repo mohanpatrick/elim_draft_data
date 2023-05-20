@@ -3,7 +3,6 @@ name: Test file writing automation
 
 on:
 	workflow_dispatch:
-	inputs: "Test writing a data file"
 
 
 jobs:

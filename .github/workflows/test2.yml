@@ -1,8 +1,8 @@
 name: Test file writing automation
 
 on:
-  schedule:
-        - cron: "0 * * * *"
+	schedule:
+			- cron: "0 * * * *"
 
 jobs:
   generate-data:

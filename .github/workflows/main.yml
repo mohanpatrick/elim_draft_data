@@ -19,7 +19,7 @@ jobs:
         name: Run data update
       - run: |
           source("R/create_data_file.R")
-        shell: Rscript
+        shell: Rscript {0}
     
     
     

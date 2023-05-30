@@ -17,7 +17,7 @@ jobs:
         with:
           extra-packages: piggyback, readr, diplyr, tidyr, tidyverse, purrr, cli
         name: Run data update
-        run: |
+      - run: |
           source("R/create_data_file.R")
         shell: Rscript
     

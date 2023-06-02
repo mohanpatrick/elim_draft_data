@@ -14975,6 +14975,294 @@ league_id,timestamp,round,pick,overall,franchise_id,franchise_name,player_id,pla
 45978,2023-05-29T16:17:32Z,16,16,286,0013,Brandon Pauley (@Statwizz_ffb),15696,"Zappe, Bailey",QB,24.1,NEP
 45978,2023-05-29T16:29:00Z,16,17,287,0010,Tyler O (@@FFTylerO),13869,"Bojorquez, Corey",PN,26.7,CLE
 45978,2023-05-29T22:30:47Z,16,18,288,0003,Korbyn Dubois (@korbdub),16215,"Musgrave, Luke",TE,22.7,GBP
+46469,2023-05-16T11:59:52Z,01,01,1,0008,Steven Munger (@@stevenmunger),13116,"Mahomes, Patrick",QB,27.7,KCC
+46469,2023-05-16T11:59:52Z,01,02,2,0014,Brian Schardt (@Schardt312 ),14783,"Hurts, Jalen",QB,24.8,PHI
+46469,2023-05-16T11:59:52Z,01,03,3,0007,Skinny McKinney (@PhantasiaPhun),13589,"Allen, Josh",QB,27,BUF
+46469,2023-05-16T11:59:52Z,01,04,4,0006,n/a,13593,"Jackson, Lamar",QB,26.4,BAL
+46469,2023-05-16T12:17:06Z,01,05,5,0010,Anne Dunn (@Rowdy357),14777,"Burrow, Joe",QB,26.4,CIN
+46469,2023-05-16T13:57:23Z,01,06,6,0004,Steven Perkins (@@flavorizethis),15238,"Fields, Justin",QB,24.2,CHI
+46469,2023-05-16T14:22:51Z,01,07,7,0015,Cole Grainger (@theColeGrainger),14779,"Herbert, Justin",QB,25.2,LAC
+46469,2023-05-16T14:37:21Z,01,08,8,0011,Brandon Pauley (@StatWizz_FFB),15237,"Lawrence, Trevor",QB,23.6,JAC
+46469,2023-05-16T20:45:54Z,01,09,9,0018,Joe Landon (@),14836,"Jefferson, Justin",WR,23.9,MIN
+46469,2023-05-16T23:48:33Z,01,10,10,0016,tim turner (@quantimturner),13113,"Watson, Deshaun",QB,27.7,CLE
+46469,2023-05-17T00:08:06Z,01,11,11,0013,Samantha Sledd (@@10sks),11244,"Kelce, Travis",TE,33.6,KCC
+46469,2023-05-17T00:10:44Z,01,12,12,0012,Kevin M Sesny (@@kevsez68),13130,"McCaffrey, Christian",RB,26.9,SFO
+46469,2023-05-17T00:53:57Z,01,13,13,0009,Scott Frankel (@@scottfrankel13),12620,"Prescott, Dak",QB,29.8,DAL
+46469,2023-05-17T00:58:09Z,01,14,14,0002,Bob Voytko (@@btvoytko),12801,"Hill, Tyreek",WR,29.2,MIA
+46469,2023-05-17T01:22:13Z,01,15,15,0001,Tera Roberts,13164,"Kupp, Cooper",WR,29.9,LAR
+46469,2023-05-17T02:10:50Z,01,16,16,0017,Matt (@),16152,"Richardson, Anthony",QB,21,IND
+46469,2023-05-17T02:21:41Z,01,17,17,0003,Sean Robinson (@@TheFFKoala),14778,"Tagovailoa, Tua",QB,25.2,MIA
+46469,2023-05-17T03:36:47Z,01,18,18,0005,timskeems (@),15281,"Chase, Ja'Marr",WR,23.2,CIN
+46469,2023-05-17T03:41:30Z,02,01,19,0005,timskeems (@),11675,"Adams, Davante",WR,30.4,LVR
+46469,2023-05-17T03:47:48Z,02,02,20,0003,Sean Robinson (@@TheFFKoala),10700,"Cousins, Kirk",QB,34.7,MIN
+46469,2023-05-17T12:03:27Z,02,03,21,0017,Matt (@),11150,"Smith, Geno",QB,32.6,SEA
+46469,2023-05-17T12:41:06Z,02,04,22,0001,Tera Roberts,12611,"Goff, Jared",QB,28.6,DET
+46469,2023-05-17T14:23:54Z,02,05,23,0002,Bob Voytko (@@btvoytko),13404,"Ekeler, Austin",RB,28,LAC
+46469,2023-05-17T14:23:54Z,02,06,24,0009,Scott Frankel (@@scottfrankel13),14059,"Jones, Daniel",QB,26,NYG
+46469,2023-05-17T14:42:16Z,02,07,25,0012,Kevin M Sesny (@@kevsez68),13671,"Andrews, Mark",TE,27.7,BAL
+46469,2023-05-17T14:55:08Z,02,08,26,0013,Samantha Sledd (@@10sks),16161,"Robinson, Bijan",RB,21.3,ATL
+46469,2023-05-17T15:59:19Z,02,09,27,0016,tim turner (@quantimturner),7836,"Rodgers, Aaron",QB,39.5,NYJ
+46469,2023-05-17T15:59:19Z,02,10,28,0018,Joe Landon (@),14802,"Taylor, Jonathan",RB,24.3,IND
+46469,2023-05-17T16:11:28Z,02,11,29,0011,Brandon Pauley (@StatWizz_FFB),14073,"Jacobs, Josh",RB,25.3,LVR
+46469,2023-05-17T16:31:53Z,02,12,30,0015,Cole Grainger (@theColeGrainger),15287,"St. Brown, Amon-Ra",WR,23.6,DET
+46469,2023-05-17T18:12:11Z,02,13,31,0004,Steven Perkins (@@flavorizethis),11644,"Carr, Derek",QB,32.1,NOS
+46469,2023-05-17T18:29:27Z,02,14,32,0010,Anne Dunn (@Rowdy357),14832,"Lamb, CeeDee",WR,24.1,DAL
+46469,2023-05-17T18:34:28Z,02,15,33,0006,n/a,12186,"Diggs, Stefon",WR,29.5,BUF
+46469,2023-05-17T18:40:39Z,02,16,34,0007,Skinny McKinney (@PhantasiaPhun),13604,"Barkley, Saquon",RB,26.3,NYG
+46469,2023-05-17T18:53:18Z,02,17,35,0014,Brian Schardt (@Schardt312 ),14104,"Brown, A.J.",WR,25.9,PHI
+46469,2023-05-17T18:53:18Z,02,18,36,0008,Steven Munger (@@stevenmunger),12626,"Henry, Derrick",RB,29.4,TEN
+46469,2023-05-17T20:56:57Z,03,01,37,0005,timskeems (@),11760,"Garoppolo, Jimmy",QB,31.5,LVR
+46469,2023-05-17T21:59:37Z,03,02,38,0003,Sean Robinson (@@TheFFKoala),10703,"Wilson, Russell",QB,34.5,DEN
+46469,2023-05-17T22:01:40Z,03,03,39,0017,Matt (@),16148,"Young, Bryce",QB,21.8,CAR
+46469,2023-05-17T23:11:20Z,03,04,40,0001,Tera Roberts,9431,"Stafford, Matthew",QB,35.3,LAR
+46469,2023-05-17T23:14:32Z,03,05,41,0002,Bob Voytko (@@btvoytko),15754,"Olave, Chris",WR,22.9,NOS
+46469,2023-05-18T01:41:34Z,03,06,42,0009,Scott Frankel (@@scottfrankel13),15284,"Waddle, Jaylen",WR,24.5,MIA
+46469,2023-05-18T02:02:15Z,03,07,43,0012,Kevin M Sesny (@@kevsez68),13610,"Chubb, Nick",RB,27.4,CLE
+46469,2023-05-18T02:11:18Z,03,08,44,0013,Samantha Sledd (@@10sks),14782,"Love, Jordan",QB,24.5,GBP
+46469,2023-05-18T03:01:17Z,03,09,45,0016,tim turner (@quantimturner),15708,"Hall, Breece",RB,22,NYJ
+46469,2023-05-18T03:01:17Z,03,10,46,0018,Joe Landon (@),16151,"Hooker, Hendon",QB,25.3,DET
+46469,2023-05-18T08:04:33Z,03,11,47,0011,Brandon Pauley (@StatWizz_FFB),14056,"Murray, Kyler",QB,25.8,ARI
+46469,2023-05-18T11:47:00Z,03,12,48,0015,Cole Grainger (@theColeGrainger),16150,"Stroud, C.J.",QB,21.6,HOU
+46469,2023-05-18T12:59:51Z,03,13,49,0004,Steven Perkins (@@flavorizethis),15753,"Wilson, Garrett",WR,22.8,NYJ
+46469,2023-05-18T13:52:06Z,03,14,50,0010,Anne Dunn (@Rowdy357),14102,"Metcalf, DK",WR,25.4,SEA
+46469,2023-05-18T13:52:06Z,03,15,51,0006,n/a,15282,"Smith, DeVonta",WR,24.5,PHI
+46469,2023-05-18T16:43:45Z,03,16,52,0007,Skinny McKinney (@PhantasiaPhun),14835,"Higgins, Tee",WR,24.3,CIN
+46469,2023-05-18T17:20:21Z,03,17,53,0014,Brian Schardt (@Schardt312 ),15253,"Etienne, Travis",RB,24.3,JAC
+46469,2023-05-18T17:21:39Z,03,18,54,0008,Steven Munger (@@stevenmunger),13299,"Kittle, George",TE,29.6,SFO
+46469,2023-05-18T17:22:06Z,04,01,55,0008,Steven Munger (@@stevenmunger),15254,"Harris, Najee",RB,25.2,PIT
+46469,2023-05-18T17:23:28Z,04,02,56,0014,Brian Schardt (@Schardt312 ),14138,"Hockenson, T.J.",TE,25.9,MIN
+46469,2023-05-18T17:23:28Z,04,03,57,0007,Skinny McKinney (@PhantasiaPhun),14085,"Pollard, Tony",RB,26,DAL
+46469,2023-05-18T17:23:28Z,04,04,58,0006,n/a,13674,"Goedert, Dallas",TE,28.4,PHI
+46469,2023-05-18T21:32:55Z,04,05,59,0010,Anne Dunn (@Rowdy357),15259,"Stevenson, Rhamondre",RB,25.2,NEP
+46469,2023-05-18T21:32:55Z,04,06,60,0004,Steven Perkins (@@flavorizethis),13629,"Ridley, Calvin",WR,28.4,JAC
+46469,2023-05-18T22:20:22Z,04,07,61,0015,Cole Grainger (@theColeGrainger),14136,"Samuel, Deebo",WR,27.3,SFO
+46469,2023-05-18T22:29:19Z,04,08,62,0011,Brandon Pauley (@StatWizz_FFB),15329,"Pitts, Kyle",TE,22.6,ATL
+46469,2023-05-18T22:29:19Z,04,09,63,0018,Joe Landon (@),16187,"Downs, Josh",WR,21.8,IND
+46469,2023-05-19T00:17:43Z,04,10,64,0016,tim turner (@quantimturner),15711,"Walker III, Kenneth",RB,22.6,SEA
+46469,2023-05-19T00:37:08Z,04,11,65,0013,Samantha Sledd (@@10sks),14079,"Sanders, Miles",RB,26,CAR
+46469,2023-05-19T00:44:17Z,04,12,66,0012,Kevin M Sesny (@@kevsez68),16162,"Gibbs, Jahmyr",RB,21.2,DET
+46469,2023-05-19T01:53:12Z,04,13,67,0009,Scott Frankel (@@scottfrankel13),15693,"Howell, Sam",QB,22.7,WAS
+46469,2023-05-19T09:09:28Z,04,14,68,0002,Bob Voytko (@@btvoytko),13131,"Mixon, Joe",RB,26.8,CIN
+46469,2023-05-19T10:47:34Z,04,15,69,0001,Tera Roberts,15697,"Ridder, Desmond",QB,23.7,ATL
+46469,2023-05-19T11:38:21Z,04,16,70,0017,Matt (@),13319,"Jones, Aaron",RB,28.5,GBP
+46469,2023-05-19T13:18:06Z,04,17,71,0003,Sean Robinson (@@TheFFKoala),13635,"Moore, D.J.",WR,26.1,CHI
+46469,2023-05-19T13:18:06Z,04,18,72,0005,timskeems (@),15717,"Pierce, Dameon",RB,23.2,HOU
+46469,2023-05-19T13:38:09Z,05,01,73,0005,timskeems (@),15721,"White, Rachaad",RB,24.1,TBB
+46469,2023-05-19T14:04:43Z,05,02,74,0003,Sean Robinson (@@TheFFKoala),14842,"Pittman, Michael",WR,25.6,IND
+46469,2023-05-19T14:07:30Z,05,03,75,0017,Matt (@),14800,"Dobbins, J.K.",RB,24.4,BAL
+46469,2023-05-19T18:27:31Z,05,04,76,0001,Tera Roberts,11232,"Hopkins, DeAndre",WR,30.9,FA
+46469,2023-05-19T18:55:21Z,05,05,77,0002,Bob Voytko (@@btvoytko),13128,"Cook, Dalvin",RB,27.8,MIN
+46469,2023-05-19T21:44:57Z,05,06,78,0009,Scott Frankel (@@scottfrankel13),11222,"Allen, Keenan",WR,31.1,LAC
+46469,2023-05-19T21:47:31Z,05,07,79,0012,Kevin M Sesny (@@kevsez68),14797,"Swift, D'Andre",RB,24.3,PHI
+46469,2023-05-19T23:21:44Z,05,08,80,0013,Samantha Sledd (@@10sks),15692,"Pickett, Kenny",QB,25,PIT
+46469,2023-05-20T02:29:13Z,05,09,81,0016,tim turner (@quantimturner),15256,"Williams, Javonte",RB,23.1,DEN
+46469,2023-05-20T02:29:13Z,05,10,82,0018,Joe Landon (@),16183,"Hyatt, Jalin",WR,21.6,NYG
+46469,2023-05-20T02:33:08Z,05,11,83,0011,Brandon Pauley (@StatWizz_FFB),14109,"McLaurin, Terry",WR,27.7,WAS
+46469,2023-05-20T02:33:08Z,05,12,84,0015,Cole Grainger (@theColeGrainger),13146,"Conner, James",RB,28,ARI
+46469,2023-05-20T04:41:58Z,05,13,85,0004,Steven Perkins (@@flavorizethis),12175,"Cooper, Amari",WR,28.9,CLE
+46469,2023-05-20T13:20:26Z,05,14,86,0010,Anne Dunn (@Rowdy357),14071,"Montgomery, David",RB,25.9,DET
+46469,2023-05-20T16:38:13Z,05,15,87,0006,n/a,15751,"London, Drake",WR,21.8,ATL
+46469,2023-05-20T16:38:13Z,05,16,88,0007,Skinny McKinney (@PhantasiaPhun),14799,"Akers, Cam",RB,23.9,LAR
+46469,2023-05-20T17:12:22Z,05,17,89,0014,Brian Schardt (@Schardt312 ),0504,"Patriots, New England",Def,NA,NEP
+46469,2023-05-20T17:14:17Z,05,18,90,0008,Steven Munger (@@stevenmunger),15241,"Jones, Mac",QB,24.7,NEP
+46469,2023-05-20T17:14:33Z,06,01,91,0008,Steven Munger (@@stevenmunger),13163,"Godwin, Chris",WR,27.2,TBB
+46469,2023-05-20T17:15:33Z,06,02,92,0014,Brian Schardt (@Schardt312 ),13633,"Kirk, Christian",WR,26.5,JAC
+46469,2023-05-20T21:32:33Z,06,03,93,0007,Skinny McKinney (@PhantasiaPhun),13154,"Williams, Mike",WR,28.6,LAC
+46469,2023-05-20T21:50:09Z,06,04,94,0006,n/a,13189,"Engram, Evan",TE,28.7,JAC
+46469,2023-05-21T01:57:54Z,06,05,95,0010,Anne Dunn (@Rowdy357),14833,"Jeudy, Jerry",WR,24.1,DEN
+46469,2023-05-21T01:57:54Z,06,06,96,0004,Steven Perkins (@@flavorizethis),0518,"Eagles, Philadelphia",Def,NA,PHI
+46469,2023-05-21T01:57:54Z,06,07,97,0015,Cole Grainger (@theColeGrainger),11671,"Evans, Mike",WR,29.7,TBB
+46469,2023-05-21T02:06:21Z,06,08,98,0011,Brandon Pauley (@StatWizz_FFB),15789,"Watson, Christian",WR,24,GBP
+46469,2023-05-21T02:06:21Z,06,09,99,0018,Joe Landon (@),16219,"Allen, Davis",TE,22.3,LAR
+46469,2023-05-21T13:38:53Z,06,10,100,0016,tim turner (@quantimturner),12263,"Waller, Darren",TE,30.7,NYG
+46469,2023-05-21T13:58:46Z,06,11,101,0013,Samantha Sledd (@@10sks),0516,"Cowboys, Dallas",Def,NA,DAL
+46469,2023-05-21T14:16:37Z,06,12,102,0012,Kevin M Sesny (@@kevsez68),13848,"Johnston, Cam",PN,31.2,HOU
+46469,2023-05-21T14:16:37Z,06,13,103,0009,Scott Frankel (@@scottfrankel13),15715,"Cook, James",RB,23.7,BUF
+46469,2023-05-21T16:08:25Z,06,14,104,0002,Bob Voytko (@@btvoytko),15749,"Pacheco, Isiah",RB,24.2,KCC
+46469,2023-05-21T21:14:29Z,06,15,105,0001,Tera Roberts,12187,"Lockett, Tyler",WR,30.6,SEA
+46469,2023-05-22T03:15:20Z,06,16,106,0017,Matt (@),16193,"Boutte, Kayshon",WR,21,NEP
+46469,2023-05-22T13:14:45Z,06,17,107,0003,Sean Robinson (@@TheFFKoala),0530,"49ers, San Francisco",Def,NA,SFO
+46469,2023-05-22T13:14:45Z,06,18,108,0005,timskeems (@),14852,"Gibson, Antonio",RB,24.9,WAS
+46469,2023-05-22T13:26:27Z,07,01,109,0005,timskeems (@),15755,"Dotson, Jahan",WR,23.2,WAS
+46469,2023-05-22T13:47:08Z,07,02,110,0003,Sean Robinson (@@TheFFKoala),0501,"Bills, Buffalo",Def,NA,BUF
+46469,2023-05-22T13:47:08Z,07,03,111,0017,Matt (@),16191,"Tillman, Cedric",WR,23.1,CLE
+46469,2023-05-22T14:51:15Z,07,04,112,0001,Tera Roberts,10945,"Hekker, Johnny",PN,33.3,CAR
+46469,2023-05-22T15:20:18Z,07,05,113,0002,Bob Voytko (@@btvoytko),14223,"Mattison, Alexander",RB,24.9,MIN
+46469,2023-05-22T16:49:39Z,07,06,114,0009,Scott Frankel (@@scottfrankel13),14840,"Aiyuk, Brandon",WR,25.2,SFO
+46469,2023-05-22T17:04:39Z,07,07,115,0012,Kevin M Sesny (@@kevsez68),0512,"Chiefs, Kansas City",Def,NA,KCC
+46469,2023-05-22T17:25:56Z,07,08,116,0013,Samantha Sledd (@@10sks),14208,"Johnson, Diontae",WR,26.9,PIT
+46469,2023-05-22T19:55:15Z,07,09,117,0016,tim turner (@quantimturner),14105,"Brown, Marquise",WR,26,ARI
+46469,2023-05-22T19:55:15Z,07,10,118,0018,Joe Landon (@),15698,"Purdy, Brock",QB,23.4,SFO
+46469,2023-05-22T20:09:08Z,07,11,119,0011,Brandon Pauley (@StatWizz_FFB),10976,"Tucker, Justin",PK,33.5,BAL
+46469,2023-05-22T22:29:22Z,07,12,120,0015,Cole Grainger (@theColeGrainger),16188,"Johnston, Quentin",WR,21.7,LAC
+46469,2023-05-22T23:24:28Z,07,13,121,0004,Steven Perkins (@@flavorizethis),13590,"Mayfield, Baker",QB,28.1,TBB
+46469,2023-05-22T23:38:54Z,07,14,122,0010,Anne Dunn (@Rowdy357),13132,"Kamara, Alvin",RB,27.8,NOS
+46469,2023-05-23T00:26:11Z,07,15,123,0006,n/a,10697,"Tannehill, Ryan",QB,34.8,TEN
+46469,2023-05-23T00:26:11Z,07,16,124,0007,Skinny McKinney (@PhantasiaPhun),15331,"Freiermuth, Pat",TE,24.6,PIT
+46469,2023-05-23T00:27:57Z,07,17,125,0014,Brian Schardt (@Schardt312 ),16011,"Stonehouse, Ryan",PN,24,TEN
+46469,2023-05-23T00:34:36Z,07,18,126,0008,Steven Munger (@@stevenmunger),15240,"Lance, Trey",QB,23,SFO
+46469,2023-05-23T00:38:09Z,08,01,127,0008,Steven Munger (@@stevenmunger),15887,"Camarda, Jake",PN,24.1,TBB
+46469,2023-05-23T00:39:15Z,08,02,128,0014,Brian Schardt (@Schardt312 ),13718,"Carlson, Daniel",PK,28.3,LVR
+46469,2023-05-23T01:17:40Z,08,03,129,0007,Skinny McKinney (@PhantasiaPhun),0510,"Steelers, Pittsburgh",Def,NA,PIT
+46469,2023-05-23T15:30:15Z,08,04,130,0006,n/a,16182,"Peoples, Camerun",RB,23.7,CAR
+46469,2023-05-23T15:35:18Z,08,05,131,0010,Anne Dunn (@Rowdy357),15889,"Okonkwo, Chigoziem",TE,23.7,TEN
+46469,2023-05-23T15:35:18Z,08,06,132,0004,Steven Perkins (@@flavorizethis),0503,"Dolphins, Miami",Def,NA,MIA
+46469,2023-05-23T17:30:15Z,08,07,133,0015,Cole Grainger (@theColeGrainger),14127,"Meyers, Jakobi",WR,26.5,LVR
+46469,2023-05-23T18:11:52Z,08,08,134,0011,Brandon Pauley (@StatWizz_FFB),15368,"McPherson, Evan",PK,23.8,CIN
+46469,2023-05-23T18:11:52Z,08,09,135,0018,Joe Landon (@),16180,"Hull, Evan",RB,22.6,IND
+46469,2023-05-24T00:02:35Z,08,10,136,0016,tim turner (@quantimturner),12539,"Campbell, Dan",Coach,47.1,DET
+46469,2023-05-24T00:14:52Z,08,11,137,0013,Samantha Sledd (@@10sks),0531,"Ravens, Baltimore",Def,NA,BAL
+46469,2023-05-24T00:22:37Z,08,12,138,0012,Kevin M Sesny (@@kevsez68),13192,"Njoku, David",TE,26.9,CLE
+46469,2023-05-24T00:47:33Z,08,13,139,0009,Scott Frankel (@@scottfrankel13),14845,"Davis, Gabriel",WR,24.1,BUF
+46469,2023-05-24T09:14:44Z,08,14,140,0002,Bob Voytko (@@btvoytko),15752,"Burks, Treylon",WR,23.2,TEN
+46469,2023-05-24T09:14:44Z,08,15,141,0001,Tera Roberts,15289,"Toney, Kadarius",WR,24.3,KCC
+46469,2023-05-24T09:14:44Z,08,16,142,0017,Matt (@),16163,"Evans, Zach",RB,22,LAR
+46469,2023-05-24T12:40:23Z,08,17,143,0003,Sean Robinson (@@TheFFKoala),0505,"Jets, New York",Def,NA,NYJ
+46469,2023-05-24T18:45:16Z,08,18,144,0005,timskeems (@),16196,"Perry, A.T.",WR,23.6,NOS
+46469,2023-05-24T18:45:16Z,09,01,145,0005,timskeems (@),16206,"Wilson, Michael",WR,23.2,ARI
+46469,2023-05-24T20:07:48Z,09,02,146,0003,Sean Robinson (@@TheFFKoala),0511,"Broncos, Denver",Def,NA,DEN
+46469,2023-05-24T20:07:48Z,09,03,147,0017,Matt (@),16176,"Vaughn, Deuce",RB,21.6,DAL
+46469,2023-05-24T20:07:48Z,09,04,148,0001,Tera Roberts,16167,"Achane, Devon",RB,21.6,MIA
+46469,2023-05-24T21:59:53Z,09,05,149,0002,Bob Voytko (@@btvoytko),15762,"Pickens, George",WR,22.2,PIT
+46469,2023-05-24T22:05:19Z,09,06,150,0009,Scott Frankel (@@scottfrankel13),14805,"Dillon, AJ",RB,25.1,GBP
+46469,2023-05-24T22:07:38Z,09,07,151,0012,Kevin M Sesny (@@kevsez68),14861,"Johnson, Juwan",TE,26.7,NOS
+46469,2023-05-24T22:12:19Z,09,08,152,0013,Samantha Sledd (@@10sks),13133,"Perine, Samaje",RB,27.7,DEN
+46469,2023-05-24T23:01:36Z,09,09,153,0016,tim turner (@quantimturner),13630,"Sutton, Courtland",WR,27.6,DEN
+46469,2023-05-24T23:01:36Z,09,10,154,0018,Joe Landon (@),16203,"Jones, Charlie",WR,24.6,CIN
+46469,2023-05-24T23:43:17Z,09,11,155,0011,Brandon Pauley (@StatWizz_FFB),16185,"Smith-Njigba, Jaxon",WR,21.3,SEA
+46469,2023-05-24T23:55:24Z,09,12,156,0015,Cole Grainger (@theColeGrainger),15797,"Dulcich, Greg",TE,23.2,DEN
+46469,2023-05-25T01:06:12Z,09,13,157,0004,Steven Perkins (@@flavorizethis),0506,"Bengals, Cincinnati",Def,NA,CIN
+46469,2023-05-25T01:39:10Z,09,14,158,0010,Anne Dunn (@Rowdy357),3622,"Reid, Andy",Coach,NA,KCC
+46469,2023-05-25T01:39:10Z,09,15,159,0006,n/a,16222,"Kraft, Tucker",TE,22.6,GBP
+46469,2023-05-25T01:39:10Z,09,16,160,0007,Skinny McKinney (@PhantasiaPhun),16149,"Levis, Will",QB,23.9,TEN
+46469,2023-05-25T01:40:12Z,09,17,161,0014,Brian Schardt (@Schardt312 ),13156,"Smith-Schuster, JuJu",WR,26.5,NEP
+46469,2023-05-25T11:10:16Z,09,18,162,0008,Steven Munger (@@stevenmunger),14867,"Kmet, Cole",TE,24.2,CHI
+46469,2023-05-25T11:10:47Z,10,01,163,0008,Steven Munger (@@stevenmunger),13354,"Butker, Harrison",PK,27.9,KCC
+46469,2023-05-25T15:14:57Z,10,02,164,0014,Brian Schardt (@Schardt312 ),15293,"Bateman, Rashod",WR,23.5,BAL
+46469,2023-05-25T16:30:40Z,10,03,165,0007,Skinny McKinney (@PhantasiaPhun),11674,"Cooks, Brandin",WR,29.7,DAL
+46469,2023-05-25T16:30:40Z,10,04,166,0006,n/a,16216,"Washington, Darnell",TE,21.8,PIT
+46469,2023-05-25T19:02:02Z,10,05,167,0010,Anne Dunn (@Rowdy357),15716,"Robinson, Brian",RB,24.2,WAS
+46469,2023-05-25T20:29:48Z,10,06,168,0004,Steven Perkins (@@flavorizethis),12476,"Heinicke, Taylor",QB,30.2,ATL
+46469,2023-05-25T22:03:56Z,10,07,169,0015,Cole Grainger (@theColeGrainger),13139,"Williams, Jamaal",RB,28.1,NOS
+46469,2023-05-25T22:29:06Z,10,08,170,0011,Brandon Pauley (@StatWizz_FFB),11761,"McKinnon, Jerick",RB,31.1,KCC
+46469,2023-05-25T22:29:06Z,10,09,171,0018,Joe Landon (@),16173,"Gray, Eric",RB,23.6,NYG
+46469,2023-05-26T00:19:20Z,10,10,172,0016,tim turner (@quantimturner),12625,"Elliott, Ezekiel",RB,27.8,FA
+46469,2023-05-26T00:48:50Z,10,11,173,0013,Samantha Sledd (@@10sks),0509,"Jaguars, Jacksonville",Def,NA,JAC
+46469,2023-05-26T01:08:49Z,10,12,174,0012,Kevin M Sesny (@@kevsez68),16169,"Charbonnet, Zach",RB,22.4,SEA
+46469,2023-05-26T01:16:40Z,10,13,175,0009,Scott Frankel (@@scottfrankel13),16186,"Addison, Jordan",WR,21.3,MIN
+46469,2023-05-26T04:52:31Z,10,14,176,0002,Bob Voytko (@@btvoytko),16175,"Johnson, Roschon",RB,22.3,CHI
+46469,2023-05-26T10:49:26Z,10,15,177,0001,Tera Roberts,13608,"Penny, Rashaad",RB,27.3,PHI
+46469,2023-05-26T10:49:26Z,10,16,178,0017,Matt (@),16205,"Scott, Tyler",WR,21.6,CHI
+46469,2023-05-26T15:04:03Z,10,17,179,0003,Sean Robinson (@@TheFFKoala),0529,"Saints, New Orleans",Def,NA,NOS
+46469,2023-05-26T15:04:03Z,10,18,180,0005,timskeems (@),12678,"Higbee, Tyler",TE,30.4,LAR
+46469,2023-05-26T21:15:50Z,11,01,181,0005,timskeems (@),16170,"McIntosh, Kenny",RB,23.2,SEA
+46469,2023-05-26T21:19:05Z,11,02,182,0003,Sean Robinson (@@TheFFKoala),13772,"Schultz, Dalton",TE,26.9,HOU
+46469,2023-05-26T21:19:05Z,11,03,183,0017,Matt (@),16217,"Latu, Cameron",TE,23.2,SFO
+46469,2023-05-26T21:28:22Z,11,04,184,0001,Tera Roberts,15290,"Collins, Nico",WR,24.2,HOU
+46469,2023-05-26T22:07:23Z,11,05,185,0002,Bob Voytko (@@btvoytko),16190,"Flowers, Zay",WR,22.7,BAL
+46469,2023-05-26T22:11:25Z,11,06,186,0009,Scott Frankel (@@scottfrankel13),16197,"Mingo, Jonathan",WR,22.1,CAR
+46469,2023-05-26T22:39:10Z,11,07,187,0012,Kevin M Sesny (@@kevsez68),15051,"Townsend, Tommy",PN,26.5,KCC
+46469,2023-05-27T01:33:22Z,11,08,188,0013,Samantha Sledd (@@10sks),12652,"Thomas, Michael",WR,30.2,NOS
+46469,2023-05-27T12:04:30Z,11,09,189,0016,tim turner (@quantimturner),13303,"Elliott, Jake",PK,28.3,PHI
+46469,2023-05-27T12:04:30Z,11,10,190,0018,Joe Landon (@),16156,"Haener, Jake",QB,24.2,NOS
+46469,2023-05-27T14:19:17Z,11,11,191,0011,Brandon Pauley (@StatWizz_FFB),13134,"Foreman, D'Onta",RB,27.1,CHI
+46469,2023-05-27T18:16:30Z,11,12,192,0015,Cole Grainger (@theColeGrainger),15234,"Sirianni, Nick",Coach,NA,PHI
+46469,2023-05-27T18:16:30Z,11,13,193,0004,Steven Perkins (@@flavorizethis),15271,"Herbert, Khalil",RB,25.1,CHI
+46469,2023-05-27T19:25:22Z,11,14,194,0010,Anne Dunn (@Rowdy357),0520,"Commanders, Washington",Def,NA,WAS
+46469,2023-05-27T19:25:22Z,11,15,195,0006,n/a,16207,"Iosivas, Andrei",WR,23.6,CIN
+46469,2023-05-27T19:29:03Z,11,16,196,0007,Skinny McKinney (@PhantasiaPhun),13424,"Hill, Taysom",TE,32.8,NOS
+46469,2023-05-27T20:10:01Z,11,17,197,0014,Brian Schardt (@Schardt312 ),11679,"Beckham, Odell",WR,30.6,BAL
+46469,2023-05-27T20:13:28Z,11,18,198,0008,Steven Munger (@@stevenmunger),13403,"Koo, Younghoe",PK,28.8,ATL
+46469,2023-05-27T20:14:01Z,12,01,199,0008,Steven Munger (@@stevenmunger),13233,"Shanahan, Kyle",Coach,NA,SFO
+46469,2023-05-28T00:53:57Z,12,02,200,0014,Brian Schardt (@Schardt312 ),0523,"Packers, Green Bay",Def,NA,GBP
+46469,2023-05-28T01:55:51Z,12,03,201,0007,Skinny McKinney (@PhantasiaPhun),0502,"Colts, Indianapolis",Def,NA,IND
+46469,2023-05-28T01:55:51Z,12,04,202,0006,n/a,16178,"Mitchell, Keaton",RB,NA,BAL
+46469,2023-05-28T13:19:42Z,12,05,203,0010,Anne Dunn (@Rowdy357),14974,"Mooney, Darnell",WR,25.6,CHI
+46469,2023-05-28T13:19:42Z,12,06,204,0004,Steven Perkins (@@flavorizethis),9899,"McCoy, Colt",QB,36.7,ARI
+46469,2023-05-28T14:08:59Z,12,07,205,0015,Cole Grainger (@theColeGrainger),15759,"Metchie, John",WR,22.9,HOU
+46469,2023-05-28T14:52:25Z,12,08,206,0011,Brandon Pauley (@StatWizz_FFB),0522,"Lions, Detroit",Def,NA,DET
+46469,2023-05-28T14:52:25Z,12,09,207,0018,Joe Landon (@),16199,"Palmer, Trey",WR,22.2,TBB
+46469,2023-05-28T19:03:44Z,12,10,208,0016,tim turner (@quantimturner),13176,"Jones, Zay",WR,28.2,JAC
+46469,2023-05-28T20:33:18Z,12,11,209,0013,Samantha Sledd (@@10sks),0527,"Panthers, Carolina",Def,NA,CAR
+46469,2023-05-28T20:35:14Z,12,12,210,0012,Kevin M Sesny (@@kevsez68),16171,"Miller, Kendre",RB,21,NOS
+46469,2023-05-28T20:37:46Z,12,13,211,0009,Scott Frankel (@@scottfrankel13),11985,"Way, Tress",PN,33.1,WAS
+46469,2023-05-28T21:57:35Z,12,14,212,0002,Bob Voytko (@@btvoytko),15713,"Ford, Jerome",RB,23.7,CLE
+46469,2023-05-28T22:07:24Z,12,15,213,0001,Tera Roberts,12323,"Pinion, Bradley",PN,29,ATL
+46469,2023-05-28T22:07:24Z,12,16,214,0017,Matt (@),16249,"Kuntz, Zack",TE,24,NYJ
+46469,2023-05-28T22:37:02Z,12,17,215,0003,Sean Robinson (@@TheFFKoala),0525,"Buccaneers, Tampa Bay",Def,NA,TBB
+46469,2023-05-28T22:37:02Z,12,18,216,0005,timskeems (@),16192,"Washington, Parker",WR,21.2,JAC
+46469,2023-05-28T22:37:02Z,13,01,217,0005,timskeems (@),16172,"Ibrahim, Mohamed",RB,24.7,DET
+46469,2023-05-28T22:37:11Z,13,02,218,0003,Sean Robinson (@@TheFFKoala),0514,"Chargers, Los Angeles",Def,NA,LAC
+46469,2023-05-28T22:37:11Z,13,03,219,0017,Matt (@),16202,"Bell, Ronnie",WR,23.3,SFO
+46469,2023-05-28T23:08:51Z,13,04,220,0001,Tera Roberts,14983,"Bass, Tyler",PK,26.3,BUF
+46469,2023-05-28T23:12:50Z,13,05,221,0002,Bob Voytko (@@btvoytko),11938,"Thielen, Adam",WR,32.8,CAR
+46469,2023-05-29T00:44:35Z,13,06,222,0009,Scott Frankel (@@scottfrankel13),0515,"Seahawks, Seattle",Def,NA,SEA
+46469,2023-05-29T00:54:17Z,13,07,223,0012,Kevin M Sesny (@@kevsez68),14489,"Gillan, Jamie",PN,25.9,NYG
+46469,2023-05-29T01:47:52Z,13,08,224,0013,Samantha Sledd (@@10sks),10814,"Anger, Bryan",PN,34.6,DAL
+46469,2023-05-29T12:16:52Z,13,09,225,0016,tim turner (@quantimturner),0528,"Rams, Los Angeles",Def,NA,LAR
+46469,2023-05-29T12:16:52Z,13,10,226,0018,Joe Landon (@),16201,"Hutchinson, Xavier",WR,23,HOU
+46469,2023-05-29T15:08:14Z,13,11,227,0011,Brandon Pauley (@StatWizz_FFB),15696,"Zappe, Bailey",QB,24.1,NEP
+46469,2023-05-29T16:01:05Z,13,12,228,0015,Cole Grainger (@theColeGrainger),13782,"Dickson, Michael",PN,27.4,SEA
+46469,2023-05-29T21:56:59Z,13,13,229,0004,Steven Perkins (@@flavorizethis),13112,"McDermott, Sean",Coach,49.2,BUF
+46469,2023-05-29T23:26:09Z,13,14,230,0010,Anne Dunn (@Rowdy357),14143,"Knox, Dawson",TE,26.5,BUF
+46469,2023-05-29T23:26:09Z,13,15,231,0006,n/a,16215,"Musgrave, Luke",TE,22.7,GBP
+46469,2023-05-30T00:12:13Z,13,16,232,0007,Skinny McKinney (@PhantasiaPhun),15499,"Gillikin, Blake",PN,25.4,NOS
+46469,2023-05-30T00:29:09Z,13,17,233,0014,Brian Schardt (@Schardt312 ),13632,"Lazard, Allen",WR,27.5,NYJ
+46469,2023-05-30T01:13:44Z,13,18,234,0008,Steven Munger (@@stevenmunger),15882,"York, Cade",PK,22.3,CLE
+46469,2023-05-30T01:14:06Z,14,01,235,0008,Steven Munger (@@stevenmunger),8235,"McCarthy, Mike",Coach,NA,DAL
+46469,2023-05-30T01:17:30Z,14,02,236,0014,Brian Schardt (@Schardt312 ),16214,"LaPorta, Sam",TE,22.4,DET
+46469,2023-05-30T01:50:37Z,14,03,237,0007,Skinny McKinney (@PhantasiaPhun),16010,"Wright, Ryan",PN,23,MIN
+46469,2023-05-30T01:50:37Z,14,04,238,0006,n/a,16174,"Rodriguez, Chris",RB,22.7,WAS
+46469,2023-05-30T04:36:07Z,14,05,239,0010,Anne Dunn (@Rowdy357),15979,"Dicker, Cameron",PK,23.1,LAC
+46469,2023-05-30T17:38:06Z,14,06,240,0004,Steven Perkins (@@flavorizethis),15369,"Patterson, Riley",PK,23.7,DET
+46469,2023-05-30T17:59:24Z,14,07,241,0015,Cole Grainger (@theColeGrainger),15263,"Mitchell, Elijah",RB,25.1,SFO
+46469,2023-05-30T18:09:19Z,14,08,242,0011,Brandon Pauley (@StatWizz_FFB),14075,"Harris, Damien",RB,26.3,BUF
+46469,2023-05-30T18:09:19Z,14,09,243,0018,Joe Landon (@),16213,"Kincaid, Dalton",TE,23.6,BUF
+46469,2023-05-30T21:30:07Z,14,10,244,0016,tim turner (@quantimturner),15496,"Harvin, Pressley",PN,24.7,PIT
+46469,2023-05-30T21:42:20Z,14,11,245,0013,Samantha Sledd (@@10sks),16080,"Shaheed, Rashid",WR,24.7,NOS
+46469,2023-05-30T21:45:41Z,14,12,246,0012,Kevin M Sesny (@@kevsez68),12842,"Dixon, Riley",PN,29.8,DEN
+46469,2023-05-30T22:14:02Z,14,13,247,0009,Scott Frankel (@@scottfrankel13),15288,"Moore, Elijah",WR,23.2,CLE
+46469,2023-05-30T22:30:01Z,14,14,248,0002,Bob Voytko (@@btvoytko),14977,"Osborn, K.J.",WR,26,MIN
+46469,2023-05-31T12:17:12Z,14,15,249,0001,Tera Roberts,15283,"Moore, Rondale",WR,23,ARI
+46469,2023-05-31T12:17:12Z,14,16,250,0017,Matt (@),16195,"Wicks, Dontayvion",WR,22,GBP
+46469,2023-05-31T13:48:25Z,14,17,251,0003,Sean Robinson (@@TheFFKoala),0507,"Browns, Cleveland",Def,NA,CLE
+46469,2023-05-31T13:48:25Z,14,18,252,0005,timskeems (@),14076,"Williams, Trayveon",RB,25.6,CIN
+46469,2023-05-31T13:48:25Z,15,01,253,0005,timskeems (@),16179,"McBride, DeWayne",RB,21.9,MIN
+46469,2023-05-31T13:48:41Z,15,02,254,0003,Sean Robinson (@@TheFFKoala),13236,"Everett, Gerald",TE,28.9,LAC
+46469,2023-05-31T13:48:41Z,15,03,255,0017,Matt (@),16168,"Abanikanda, Israel",RB,20.7,NYJ
+46469,2023-05-31T14:48:00Z,15,04,256,0001,Tera Roberts,15712,"Allgeier, Tyler",RB,23.1,ATL
+46469,2023-05-31T14:57:53Z,15,05,257,0002,Bob Voytko (@@btvoytko),15258,"Carter, Michael",RB,24.1,NYJ
+46469,2023-05-31T15:16:47Z,15,06,258,0009,Scott Frankel (@@scottfrankel13),0517,"Giants, New York",Def,NA,NYG
+46469,2023-05-31T15:33:54Z,15,07,259,0012,Kevin M Sesny (@@kevsez68),14017,"Wilson, Jeffery",RB,27.5,MIA
+46469,2023-05-31T15:48:16Z,15,08,260,0013,Samantha Sledd (@@10sks),12447,"Mostert, Raheem",RB,31.1,MIA
+46469,2023-05-31T19:19:46Z,15,09,261,0016,tim turner (@quantimturner),15779,"Doubs, Romeo",WR,23.1,GBP
+46469,2023-05-31T19:19:46Z,15,10,262,0018,Joe Landon (@),15275,"Evans, Chris",RB,25.7,CIN
+46469,2023-05-31T19:21:55Z,15,11,263,0011,Brandon Pauley (@StatWizz_FFB),12650,"Boyd, Tyler",WR,28.5,CIN
+46469,2023-05-31T22:40:13Z,15,12,264,0015,Cole Grainger (@theColeGrainger),15756,"Williams, Jameson",WR,22.2,DET
+46469,2023-05-31T22:40:13Z,15,13,265,0004,Steven Perkins (@@flavorizethis),12437,"Myers, Jason",PK,32.1,SEA
+46469,2023-06-01T01:59:20Z,15,14,266,0010,Anne Dunn (@Rowdy357),15742,"Warren, Jaylen",RB,24.6,PIT
+46469,2023-06-01T01:59:20Z,15,15,267,0006,n/a,16210,"Shorter, Justin",WR,23.1,BUF
+46469,2023-06-01T02:26:48Z,15,16,268,0007,Skinny McKinney (@PhantasiaPhun),13668,"Chark, D.J.",WR,26.7,CAR
+46469,2023-06-01T02:32:29Z,15,17,269,0014,Brian Schardt (@Schardt312 ),14054,"Taylor, Zac",Coach,40.1,CIN
+46469,2023-06-01T02:38:22Z,15,18,270,0008,Steven Munger (@@stevenmunger),16164,"Bigsby, Tank",RB,21.8,JAC
+46469,2023-06-01T02:38:45Z,16,01,271,0008,Steven Munger (@@stevenmunger),12616,"Brissett, Jacoby",QB,30.5,WAS
+46469,2023-06-01T02:41:35Z,16,02,272,0014,Brian Schardt (@Schardt312 ),16194,"Rice, Rashee",WR,23.1,KCC
+46469,2023-06-01T02:57:33Z,16,03,273,0007,Skinny McKinney (@PhantasiaPhun),15255,"Gainwell, Kenneth",RB,24.2,PHI
+46469,2023-06-01T02:57:33Z,16,04,274,0006,n/a,16211,"Nacua, Puka",WR,22,LAR
+46469,2023-06-01T13:00:53Z,16,05,275,0010,Anne Dunn (@Rowdy357),14857,"Peoples-Jones, Donovan",WR,24.3,CLE
+46469,2023-06-01T13:00:53Z,16,06,276,0004,Steven Perkins (@@flavorizethis),14858,"Jefferson, Van",WR,26.8,LAR
+46469,2023-06-01T13:43:34Z,16,07,277,0015,Cole Grainger (@theColeGrainger),15687,"McDaniel, Mike",Coach,NA,MIA
+46469,2023-06-01T15:00:07Z,16,08,278,0011,Brandon Pauley (@StatWizz_FFB),15757,"Robinson, Wan'Dale",WR,22.4,NYG
+46469,2023-06-01T15:00:07Z,16,09,279,0018,Joe Landon (@),16220,"Mallory, Will",TE,23.9,IND
+46469,2023-06-01T20:15:47Z,16,10,280,0016,tim turner (@quantimturner),15794,"McBride, Trey",TE,23.5,ARI
+46469,2023-06-01T21:05:50Z,16,11,281,0013,Samantha Sledd (@@10sks),14630,"Cole, A.J.",PN,27.5,LVR
+46469,2023-06-01T22:12:00Z,16,12,282,0012,Kevin M Sesny (@@kevsez68),9694,"Gano, Graham",PK,36.1,NYG
+46469,2023-06-01T22:22:15Z,16,13,283,0009,Scott Frankel (@@scottfrankel13),16204,"Dell, Nathaniel",WR,23.6,HOU
+46469,2023-06-01T23:34:10Z,16,14,284,0002,Bob Voytko (@@btvoytko),16181,"Brown, Chase",RB,23.2,CIN
+46469,2023-06-02T13:45:41Z,16,15,285,0001,Tera Roberts,16166,"Tucker, Sean",RB,21.6,TBB
+46469,2023-06-02T13:45:41Z,16,16,286,0017,Matt (@),16218,"Durham, Payne",TE,23,TBB
+46469,2023-06-02T14:53:26Z,16,17,287,0003,Sean Robinson (@@TheFFKoala),16212,"Mayer, Michael",TE,21.9,LVR
+46469,2023-06-02T14:53:26Z,16,18,288,0005,timskeems (@),16157,"Cunningham, Malik",QB,24.7,NEP
 46545,2023-05-18T02:00:47Z,01,01,1,0003,Sean Robinson (@@TheFFKoala),13116,"Mahomes, Patrick",QB,27.7,KCC
 46545,2023-05-18T09:18:29Z,01,02,2,0017,Ben Wagner (@@Fuzzy_Squatch),14783,"Hurts, Jalen",QB,24.8,PHI
 46545,2023-05-18T09:18:29Z,01,03,3,0010,Scott Frankel (@@scottfrankel13),13589,"Allen, Josh",QB,27,BUF
@@ -27647,6 +27935,294 @@ league_id,timestamp,round,pick,overall,franchise_id,franchise_name,player_id,pla
 65024,2023-05-28T13:46:30Z,16,16,286,0018,Christopher Warner (@@bigwarndog),16220,"Mallory, Will",TE,23.9,IND
 65024,2023-05-28T13:52:08Z,16,17,287,0006,Tom Strachan (@@NFL_Tstrack),14858,"Jefferson, Van",WR,26.8,LAR
 65024,2023-05-28T20:00:39Z,16,18,288,0013,Alex O (@Alexo_ff),12261,"Montgomery, Ty",RB,30.3,NEP
+67432,2023-05-18T12:33:38Z,01,01,1,0017,Douglas Formaniak Jr (@),13130,"McCaffrey, Christian",RB,26.9,SFO
+67432,2023-05-18T13:01:57Z,01,02,2,0011,Joey Dimarco (@@TheBearsBastard),14836,"Jefferson, Justin",WR,23.9,MIN
+67432,2023-05-18T13:48:36Z,01,03,3,0012,Cole Grainger (@theColeGrainger),13116,"Mahomes, Patrick",QB,27.7,KCC
+67432,2023-05-18T13:48:36Z,01,04,4,0018,Eric Fernandez (@LionheartDad),13589,"Allen, Josh",QB,27,BUF
+67432,2023-05-18T14:10:16Z,01,05,5,0008,Kyle Flaherty (@MNFlaherty),14783,"Hurts, Jalen",QB,24.8,PHI
+67432,2023-05-18T15:03:23Z,01,06,6,0002,Sean Robinson (@@TheFFKoala),14777,"Burrow, Joe",QB,26.4,CIN
+67432,2023-05-18T17:08:03Z,01,07,7,0003,bob voytko (@@btvoytko),13593,"Jackson, Lamar",QB,26.4,BAL
+67432,2023-05-18T17:08:03Z,01,08,8,0009,Joshua Reedy (@@joshreedy5),14779,"Herbert, Justin",QB,25.2,LAC
+67432,2023-05-18T17:08:03Z,01,09,9,0004,Drew Hamilton (@Samsnackwright),15238,"Fields, Justin",QB,24.2,CHI
+67432,2023-05-18T17:20:48Z,01,10,10,0007,Andrew Bernhard (@Stoicphysician),15281,"Chase, Ja'Marr",WR,23.2,CIN
+67432,2023-05-19T11:52:50Z,01,11,11,0001,Jeff Bell,15237,"Lawrence, Trevor",QB,23.6,JAC
+67432,2023-05-19T13:11:41Z,01,12,12,0016,Colin Williams (@colin_williams1),13404,"Ekeler, Austin",RB,28,LAC
+67432,2023-05-19T14:57:57Z,01,13,13,0005,John Supowitz (@ImThatSupi ),10700,"Cousins, Kirk",QB,34.7,MIN
+67432,2023-05-19T15:05:24Z,01,14,14,0015,Sam (@BuyAndSellYou),14802,"Taylor, Jonathan",RB,24.3,IND
+67432,2023-05-19T15:59:20Z,01,15,15,0013,Treystation360,11244,"Kelce, Travis",TE,33.6,KCC
+67432,2023-05-19T16:06:48Z,01,16,16,0010,Corey Hirt (@Corey.Hirt827),14104,"Brown, A.J.",WR,25.9,PHI
+67432,2023-05-19T22:15:50Z,01,17,17,0014,Keita Shimizu (@its_rs_kei),12620,"Prescott, Dak",QB,29.8,DAL
+67432,2023-05-19T22:30:21Z,01,18,18,0006,Brandon Pauley (@statWizz_ffb),14778,"Tagovailoa, Tua",QB,25.2,MIA
+67432,2023-05-19T22:37:00Z,02,01,19,0006,Brandon Pauley (@statWizz_ffb),12801,"Hill, Tyreek",WR,29.2,MIA
+67432,2023-05-19T22:37:00Z,02,02,20,0014,Keita Shimizu (@its_rs_kei),13113,"Watson, Deshaun",QB,27.7,CLE
+67432,2023-05-19T23:50:27Z,02,03,21,0010,Corey Hirt (@Corey.Hirt827),11150,"Smith, Geno",QB,32.6,SEA
+67432,2023-05-20T01:22:01Z,02,04,22,0013,Treystation360,14073,"Jacobs, Josh",RB,25.3,LVR
+67432,2023-05-20T02:52:48Z,02,05,23,0015,Sam (@BuyAndSellYou),14059,"Jones, Daniel",QB,26,NYG
+67432,2023-05-20T02:55:52Z,02,06,24,0005,John Supowitz (@ImThatSupi ),13604,"Barkley, Saquon",RB,26.3,NYG
+67432,2023-05-20T03:43:27Z,02,07,25,0016,Colin Williams (@colin_williams1),16152,"Richardson, Anthony",QB,21,IND
+67432,2023-05-20T10:10:41Z,02,08,26,0001,Jeff Bell,12611,"Goff, Jared",QB,28.6,DET
+67432,2023-05-20T11:29:32Z,02,09,27,0007,Andrew Bernhard (@Stoicphysician),7836,"Rodgers, Aaron",QB,39.5,NYJ
+67432,2023-05-20T11:29:32Z,02,10,28,0004,Drew Hamilton (@Samsnackwright),11644,"Carr, Derek",QB,32.1,NOS
+67432,2023-05-20T11:29:32Z,02,11,29,0009,Joshua Reedy (@@joshreedy5),16161,"Robinson, Bijan",RB,21.3,ATL
+67432,2023-05-20T13:06:47Z,02,12,30,0003,bob voytko (@@btvoytko),10703,"Wilson, Russell",QB,34.5,DEN
+67432,2023-05-20T13:55:35Z,02,13,31,0002,Sean Robinson (@@TheFFKoala),13671,"Andrews, Mark",TE,27.7,BAL
+67432,2023-05-20T14:03:08Z,02,14,32,0008,Kyle Flaherty (@MNFlaherty),14782,"Love, Jordan",QB,24.5,GBP
+67432,2023-05-20T14:10:07Z,02,15,33,0018,Eric Fernandez (@LionheartDad),9431,"Stafford, Matthew",QB,35.3,LAR
+67432,2023-05-20T15:37:02Z,02,16,34,0012,Cole Grainger (@theColeGrainger),13164,"Kupp, Cooper",WR,29.9,LAR
+67432,2023-05-20T15:50:06Z,02,17,35,0011,Joey Dimarco (@@TheBearsBastard),16150,"Stroud, C.J.",QB,21.6,HOU
+67432,2023-05-20T16:01:04Z,02,18,36,0017,Douglas Formaniak Jr (@),12186,"Diggs, Stefon",WR,29.5,BUF
+67432,2023-05-20T16:40:13Z,03,01,37,0006,Brandon Pauley (@statWizz_ffb),12626,"Henry, Derrick",RB,29.4,TEN
+67432,2023-05-20T16:40:13Z,03,02,38,0014,Keita Shimizu (@its_rs_kei),14832,"Lamb, CeeDee",WR,24.1,DAL
+67432,2023-05-20T17:10:39Z,03,03,39,0010,Corey Hirt (@Corey.Hirt827),15287,"St. Brown, Amon-Ra",WR,23.6,DET
+67432,2023-05-20T18:11:15Z,03,04,40,0013,Treystation360,11675,"Adams, Davante",WR,30.4,LVR
+67432,2023-05-20T18:26:13Z,03,05,41,0015,Sam (@BuyAndSellYou),14056,"Murray, Kyler",QB,25.8,ARI
+67432,2023-05-20T18:28:17Z,03,06,42,0005,John Supowitz (@ImThatSupi ),13610,"Chubb, Nick",RB,27.4,CLE
+67432,2023-05-20T18:37:43Z,03,07,43,0016,Colin Williams (@colin_williams1),15284,"Waddle, Jaylen",WR,24.5,MIA
+67432,2023-05-20T20:41:35Z,03,08,44,0001,Jeff Bell,14085,"Pollard, Tony",RB,26.1,DAL
+67432,2023-05-20T20:50:35Z,03,09,45,0007,Andrew Bernhard (@Stoicphysician),15754,"Olave, Chris",WR,22.9,NOS
+67432,2023-05-20T20:50:35Z,03,10,46,0004,Drew Hamilton (@Samsnackwright),11760,"Garoppolo, Jimmy",QB,31.5,LVR
+67432,2023-05-20T20:50:35Z,03,11,47,0009,Joshua Reedy (@@joshreedy5),16148,"Young, Bryce",QB,21.8,CAR
+67432,2023-05-20T20:54:19Z,03,12,48,0003,bob voytko (@@btvoytko),15692,"Pickett, Kenny",QB,25,PIT
+67432,2023-05-20T22:38:45Z,03,13,49,0002,Sean Robinson (@@TheFFKoala),15254,"Harris, Najee",RB,25.2,PIT
+67432,2023-05-20T23:46:36Z,03,14,50,0008,Kyle Flaherty (@MNFlaherty),15259,"Stevenson, Rhamondre",RB,25.2,NEP
+67432,2023-05-20T23:46:36Z,03,15,51,0018,Eric Fernandez (@LionheartDad),15241,"Jones, Mac",QB,24.7,NEP
+67432,2023-05-21T00:21:26Z,03,16,52,0012,Cole Grainger (@theColeGrainger),14102,"Metcalf, DK",WR,25.4,SEA
+67432,2023-05-21T00:42:56Z,03,17,53,0011,Joey Dimarco (@@TheBearsBastard),15753,"Wilson, Garrett",WR,22.8,NYJ
+67432,2023-05-21T01:13:37Z,03,18,54,0017,Douglas Formaniak Jr (@),10697,"Tannehill, Ryan",QB,34.8,TEN
+67432,2023-05-21T01:14:19Z,04,01,55,0017,Douglas Formaniak Jr (@),13131,"Mixon, Joe",RB,26.8,CIN
+67432,2023-05-21T01:20:27Z,04,02,56,0011,Joey Dimarco (@@TheBearsBastard),14079,"Sanders, Miles",RB,26.1,CAR
+67432,2023-05-21T01:34:54Z,04,03,57,0012,Cole Grainger (@theColeGrainger),15253,"Etienne, Travis",RB,24.3,JAC
+67432,2023-05-21T02:31:14Z,04,04,58,0018,Eric Fernandez (@LionheartDad),15708,"Hall, Breece",RB,22,NYJ
+67432,2023-05-21T02:44:25Z,04,05,59,0008,Kyle Flaherty (@MNFlaherty),13299,"Kittle, George",TE,29.6,SFO
+67432,2023-05-21T04:14:00Z,04,06,60,0002,Sean Robinson (@@TheFFKoala),14138,"Hockenson, T.J.",TE,25.9,MIN
+67432,2023-05-21T08:40:09Z,04,07,61,0003,bob voytko (@@btvoytko),13128,"Cook, Dalvin",RB,27.8,MIN
+67432,2023-05-21T10:03:42Z,04,08,62,0009,Joshua Reedy (@@joshreedy5),16162,"Gibbs, Jahmyr",RB,21.2,DET
+67432,2023-05-21T10:03:42Z,04,09,63,0004,Drew Hamilton (@Samsnackwright),15697,"Ridder, Desmond",QB,23.7,ATL
+67432,2023-05-21T11:42:27Z,04,10,64,0007,Andrew Bernhard (@Stoicphysician),15698,"Purdy, Brock",QB,23.4,SFO
+67432,2023-05-21T12:16:49Z,04,11,65,0001,Jeff Bell,15329,"Pitts, Kyle",TE,22.6,ATL
+67432,2023-05-21T14:21:47Z,04,12,66,0016,Colin Williams (@colin_williams1),15693,"Howell, Sam",QB,22.7,WAS
+67432,2023-05-21T18:29:50Z,04,13,67,0005,John Supowitz (@ImThatSupi ),14136,"Samuel, Deebo",WR,27.3,SFO
+67432,2023-05-21T18:40:25Z,04,14,68,0015,Sam (@BuyAndSellYou),14835,"Higgins, Tee",WR,24.3,CIN
+67432,2023-05-21T18:40:25Z,04,15,69,0013,Treystation360,14800,"Dobbins, J.K.",RB,24.4,BAL
+67432,2023-05-21T20:24:10Z,04,16,70,0010,Corey Hirt (@Corey.Hirt827),13319,"Jones, Aaron",RB,28.5,GBP
+67432,2023-05-21T20:24:10Z,04,17,71,0014,Keita Shimizu (@its_rs_kei),15282,"Smith, DeVonta",WR,24.5,PHI
+67432,2023-05-21T20:26:11Z,04,18,72,0006,Brandon Pauley (@statWizz_ffb),15711,"Walker III, Kenneth",RB,22.6,SEA
+67432,2023-05-21T20:28:11Z,05,01,73,0006,Brandon Pauley (@statWizz_ffb),11232,"Hopkins, DeAndre",WR,31,FA
+67432,2023-05-21T20:28:11Z,05,02,74,0014,Keita Shimizu (@its_rs_kei),16187,"Downs, Josh",WR,21.8,IND
+67432,2023-05-21T20:48:58Z,05,03,75,0010,Corey Hirt (@Corey.Hirt827),14109,"McLaurin, Terry",WR,27.7,WAS
+67432,2023-05-21T20:52:13Z,05,04,76,0013,Treystation360,13146,"Conner, James",RB,28,ARI
+67432,2023-05-21T21:00:43Z,05,05,77,0015,Sam (@BuyAndSellYou),12175,"Cooper, Amari",WR,28.9,CLE
+67432,2023-05-21T21:02:02Z,05,06,78,0005,John Supowitz (@ImThatSupi ),14797,"Swift, D'Andre",RB,24.3,PHI
+67432,2023-05-21T21:05:13Z,05,07,79,0016,Colin Williams (@colin_williams1),11222,"Allen, Keenan",WR,31.1,LAC
+67432,2023-05-22T00:46:42Z,05,08,80,0001,Jeff Bell,14799,"Akers, Cam",RB,23.9,LAR
+67432,2023-05-22T01:17:00Z,05,09,81,0007,Andrew Bernhard (@Stoicphysician),15717,"Pierce, Dameon",RB,23.3,HOU
+67432,2023-05-22T01:17:00Z,05,10,82,0004,Drew Hamilton (@Samsnackwright),0530,"49ers, San Francisco",Def,NA,SFO
+67432,2023-05-22T01:23:18Z,05,11,83,0009,Joshua Reedy (@@joshreedy5),15240,"Lance, Trey",QB,23,SFO
+67432,2023-05-22T01:28:34Z,05,12,84,0003,bob voytko (@@btvoytko),14833,"Jeudy, Jerry",WR,24.1,DEN
+67432,2023-05-22T02:03:15Z,05,13,85,0002,Sean Robinson (@@TheFFKoala),13674,"Goedert, Dallas",TE,28.4,PHI
+67432,2023-05-22T03:56:18Z,05,14,86,0008,Kyle Flaherty (@MNFlaherty),13629,"Ridley, Calvin",WR,28.4,JAC
+67432,2023-05-22T03:56:18Z,05,15,87,0018,Eric Fernandez (@LionheartDad),0501,"Bills, Buffalo",Def,NA,BUF
+67432,2023-05-22T03:56:18Z,05,16,88,0012,Cole Grainger (@theColeGrainger),12263,"Waller, Darren",TE,30.7,NYG
+67432,2023-05-22T05:12:22Z,05,17,89,0011,Joey Dimarco (@@TheBearsBastard),15749,"Pacheco, Isiah",RB,24.2,KCC
+67432,2023-05-22T05:12:22Z,05,18,90,0017,Douglas Formaniak Jr (@),15721,"White, Rachaad",RB,24.1,TBB
+67432,2023-05-22T05:12:22Z,06,01,91,0017,Douglas Formaniak Jr (@),12447,"Mostert, Raheem",RB,31.1,MIA
+67432,2023-05-22T12:50:02Z,06,02,92,0011,Joey Dimarco (@@TheBearsBastard),14071,"Montgomery, David",RB,26,DET
+67432,2023-05-22T13:07:03Z,06,03,93,0012,Cole Grainger (@theColeGrainger),13163,"Godwin, Chris",WR,27.2,TBB
+67432,2023-05-22T16:01:50Z,06,04,94,0018,Eric Fernandez (@LionheartDad),0516,"Cowboys, Dallas",Def,NA,DAL
+67432,2023-05-22T16:19:44Z,06,05,95,0008,Kyle Flaherty (@MNFlaherty),11671,"Evans, Mike",WR,29.7,TBB
+67432,2023-05-22T17:17:01Z,06,06,96,0002,Sean Robinson (@@TheFFKoala),15789,"Watson, Christian",WR,24,GBP
+67432,2023-05-22T17:54:54Z,06,07,97,0003,bob voytko (@@btvoytko),15751,"London, Drake",WR,21.8,ATL
+67432,2023-05-22T17:54:54Z,06,08,98,0009,Joshua Reedy (@@joshreedy5),13590,"Mayfield, Baker",QB,28.1,TBB
+67432,2023-05-22T20:06:11Z,06,09,99,0004,Drew Hamilton (@Samsnackwright),0518,"Eagles, Philadelphia",Def,NA,PHI
+67432,2023-05-22T20:15:38Z,06,10,100,0007,Andrew Bernhard (@Stoicphysician),14840,"Aiyuk, Brandon",WR,25.2,SFO
+67432,2023-05-22T20:18:14Z,06,11,101,0001,Jeff Bell,15256,"Williams, Javonte",RB,23.1,DEN
+67432,2023-05-22T20:45:03Z,06,12,102,0016,Colin Williams (@colin_williams1),14842,"Pittman, Michael",WR,25.6,IND
+67432,2023-05-23T00:22:42Z,06,13,103,0005,John Supowitz (@ImThatSupi ),11674,"Cooks, Brandin",WR,29.7,DAL
+67432,2023-05-23T00:55:43Z,06,14,104,0015,Sam (@BuyAndSellYou),13132,"Kamara, Alvin",RB,27.8,NOS
+67432,2023-05-23T00:55:43Z,06,15,105,0013,Treystation360,0504,"Patriots, New England",Def,NA,NEP
+67432,2023-05-23T09:26:46Z,06,16,106,0010,Corey Hirt (@Corey.Hirt827),13635,"Moore, D.J.",WR,26.1,CHI
+67432,2023-05-23T09:26:46Z,06,17,107,0014,Keita Shimizu (@its_rs_kei),16191,"Tillman, Cedric",WR,23.1,CLE
+67432,2023-05-23T09:58:46Z,06,18,108,0006,Brandon Pauley (@statWizz_ffb),13133,"Perine, Samaje",RB,27.7,DEN
+67432,2023-05-23T10:00:35Z,07,01,109,0006,Brandon Pauley (@statWizz_ffb),13154,"Williams, Mike",WR,28.6,LAC
+67432,2023-05-23T10:00:35Z,07,02,110,0014,Keita Shimizu (@its_rs_kei),16182,"Peoples, Camerun",RB,23.7,CAR
+67432,2023-05-23T10:21:46Z,07,03,111,0010,Corey Hirt (@Corey.Hirt827),16011,"Stonehouse, Ryan",PN,24,TEN
+67432,2023-05-23T10:21:46Z,07,04,112,0013,Treystation360,13848,"Johnston, Cam",PN,31.2,HOU
+67432,2023-05-23T16:16:10Z,07,05,113,0015,Sam (@BuyAndSellYou),15715,"Cook, James",RB,23.7,BUF
+67432,2023-05-23T19:02:13Z,07,06,114,0005,John Supowitz (@ImThatSupi ),13189,"Engram, Evan",TE,28.7,JAC
+67432,2023-05-23T19:02:13Z,07,07,115,0016,Colin Williams (@colin_williams1),15752,"Burks, Treylon",WR,23.2,TEN
+67432,2023-05-23T19:03:43Z,07,08,116,0001,Jeff Bell,10945,"Hekker, Johnny",PN,33.3,CAR
+67432,2023-05-23T20:29:26Z,07,09,117,0007,Andrew Bernhard (@Stoicphysician),14223,"Mattison, Alexander",RB,24.9,MIN
+67432,2023-05-23T22:19:05Z,07,10,118,0004,Drew Hamilton (@Samsnackwright),0505,"Jets, New York",Def,NA,NYJ
+67432,2023-05-23T22:19:05Z,07,11,119,0009,Joshua Reedy (@@joshreedy5),16186,"Addison, Jordan",WR,21.3,MIN
+67432,2023-05-23T23:03:25Z,07,12,120,0003,bob voytko (@@btvoytko),15762,"Pickens, George",WR,22.2,PIT
+67432,2023-05-23T23:40:20Z,07,13,121,0002,Sean Robinson (@@TheFFKoala),15331,"Freiermuth, Pat",TE,24.6,PIT
+67432,2023-05-24T00:18:36Z,07,14,122,0008,Kyle Flaherty (@MNFlaherty),14208,"Johnson, Diontae",WR,26.9,PIT
+67432,2023-05-24T00:18:36Z,07,15,123,0018,Eric Fernandez (@LionheartDad),15051,"Townsend, Tommy",PN,26.5,KCC
+67432,2023-05-24T02:22:23Z,07,16,124,0012,Cole Grainger (@theColeGrainger),15289,"Toney, Kadarius",WR,24.3,KCC
+67432,2023-05-24T03:57:42Z,07,17,125,0011,Joey Dimarco (@@TheBearsBastard),16188,"Johnston, Quentin",WR,21.7,LAC
+67432,2023-05-24T03:57:42Z,07,18,126,0017,Douglas Formaniak Jr (@),15889,"Okonkwo, Chigoziem",TE,23.7,TEN
+67432,2023-05-24T03:57:42Z,08,01,127,0017,Douglas Formaniak Jr (@),13633,"Kirk, Christian",WR,26.5,JAC
+67432,2023-05-24T13:18:20Z,08,02,128,0011,Joey Dimarco (@@TheBearsBastard),16212,"Mayer, Michael",TE,21.9,LVR
+67432,2023-05-24T13:26:53Z,08,03,129,0012,Cole Grainger (@theColeGrainger),13156,"Smith-Schuster, JuJu",WR,26.5,NEP
+67432,2023-05-24T13:26:53Z,08,04,130,0018,Eric Fernandez (@LionheartDad),13844,"Cooke, Logan",PN,27.8,JAC
+67432,2023-05-24T13:49:50Z,08,05,131,0008,Kyle Flaherty (@MNFlaherty),13139,"Williams, Jamaal",RB,28.1,NOS
+67432,2023-05-24T15:14:42Z,08,06,132,0002,Sean Robinson (@@TheFFKoala),0531,"Ravens, Baltimore",Def,NA,BAL
+67432,2023-05-24T15:59:07Z,08,07,133,0003,bob voytko (@@btvoytko),12187,"Lockett, Tyler",WR,30.7,SEA
+67432,2023-05-24T16:04:40Z,08,08,134,0009,Joshua Reedy (@@joshreedy5),10976,"Tucker, Justin",PK,33.5,BAL
+67432,2023-05-24T17:23:39Z,08,09,135,0004,Drew Hamilton (@Samsnackwright),10814,"Anger, Bryan",PN,34.6,DAL
+67432,2023-05-24T17:54:22Z,08,10,136,0007,Andrew Bernhard (@Stoicphysician),16185,"Smith-Njigba, Jaxon",WR,21.3,SEA
+67432,2023-05-24T19:55:08Z,08,11,137,0001,Jeff Bell,14852,"Gibson, Antonio",RB,24.9,WAS
+67432,2023-05-24T19:55:08Z,08,12,138,0016,Colin Williams (@colin_williams1),15755,"Dotson, Jahan",WR,23.2,WAS
+67432,2023-05-24T23:06:43Z,08,13,139,0005,John Supowitz (@ImThatSupi ),15716,"Robinson, Brian",RB,24.2,WAS
+67432,2023-05-24T23:16:02Z,08,14,140,0015,Sam (@BuyAndSellYou),14127,"Meyers, Jakobi",WR,26.5,LVR
+67432,2023-05-24T23:16:02Z,08,15,141,0013,Treystation360,0510,"Steelers, Pittsburgh",Def,NA,PIT
+67432,2023-05-24T23:40:34Z,08,16,142,0010,Corey Hirt (@Corey.Hirt827),14805,"Dillon, AJ",RB,25.1,GBP
+67432,2023-05-24T23:40:34Z,08,17,143,0014,Keita Shimizu (@its_rs_kei),16180,"Hull, Evan",RB,22.6,IND
+67432,2023-05-24T23:46:24Z,08,18,144,0006,Brandon Pauley (@statWizz_ffb),16149,"Levis, Will",QB,23.9,TEN
+67432,2023-05-24T23:47:55Z,09,01,145,0006,Brandon Pauley (@statWizz_ffb),14105,"Brown, Marquise",WR,26,ARI
+67432,2023-05-24T23:47:55Z,09,02,146,0014,Keita Shimizu (@its_rs_kei),16163,"Evans, Zach",RB,22,LAR
+67432,2023-05-24T23:57:10Z,09,03,147,0010,Corey Hirt (@Corey.Hirt827),15499,"Gillikin, Blake",PN,25.3,NOS
+67432,2023-05-25T00:03:59Z,09,04,148,0013,Treystation360,0503,"Dolphins, Miami",Def,NA,MIA
+67432,2023-05-25T00:18:05Z,09,05,149,0015,Sam (@BuyAndSellYou),14861,"Johnson, Juwan",TE,26.7,NOS
+67432,2023-05-25T00:38:54Z,09,06,150,0005,John Supowitz (@ImThatSupi ),11938,"Thielen, Adam",WR,32.8,CAR
+67432,2023-05-25T00:52:20Z,09,07,151,0016,Colin Williams (@colin_williams1),16169,"Charbonnet, Zach",RB,22.4,SEA
+67432,2023-05-25T12:25:39Z,09,08,152,0001,Jeff Bell,0517,"Giants, New York",Def,NA,NYG
+67432,2023-05-25T12:33:48Z,09,09,153,0007,Andrew Bernhard (@Stoicphysician),14845,"Davis, Gabriel",WR,24.1,BUF
+67432,2023-05-25T12:33:48Z,09,10,154,0004,Drew Hamilton (@Samsnackwright),0512,"Chiefs, Kansas City",Def,NA,KCC
+67432,2023-05-25T18:45:52Z,09,11,155,0009,Joshua Reedy (@@joshreedy5),16206,"Wilson, Michael",WR,23.2,ARI
+67432,2023-05-25T19:16:43Z,09,12,156,0003,bob voytko (@@btvoytko),13630,"Sutton, Courtland",WR,27.6,DEN
+67432,2023-05-25T22:24:06Z,09,13,157,0002,Sean Robinson (@@TheFFKoala),0529,"Saints, New Orleans",Def,NA,NOS
+67432,2023-05-26T00:03:47Z,09,14,158,0008,Kyle Flaherty (@MNFlaherty),13718,"Carlson, Daniel",PK,28.3,LVR
+67432,2023-05-26T00:03:47Z,09,15,159,0018,Eric Fernandez (@LionheartDad),14630,"Cole, A.J.",PN,27.5,LVR
+67432,2023-05-26T01:28:57Z,09,16,160,0012,Cole Grainger (@theColeGrainger),13782,"Dickson, Michael",PN,27.4,SEA
+67432,2023-05-26T02:34:56Z,09,17,161,0011,Joey Dimarco (@@TheBearsBastard),13608,"Penny, Rashaad",RB,27.3,PHI
+67432,2023-05-26T14:21:14Z,09,18,162,0017,Douglas Formaniak Jr (@),3144,"Pederson, Doug",Coach,NA,JAC
+67432,2023-05-26T14:22:43Z,10,01,163,0017,Douglas Formaniak Jr (@),14867,"Kmet, Cole",TE,24.2,CHI
+67432,2023-05-26T15:45:37Z,10,02,164,0011,Joey Dimarco (@@TheBearsBastard),16213,"Kincaid, Dalton",TE,23.6,BUF
+67432,2023-05-26T15:50:16Z,10,03,165,0012,Cole Grainger (@theColeGrainger),3622,"Reid, Andy",Coach,NA,KCC
+67432,2023-05-26T15:53:06Z,10,04,166,0018,Eric Fernandez (@LionheartDad),15271,"Herbert, Khalil",RB,25.1,CHI
+67432,2023-05-26T16:29:50Z,10,05,167,0008,Kyle Flaherty (@MNFlaherty),13192,"Njoku, David",TE,26.9,CLE
+67432,2023-05-26T16:34:08Z,10,06,168,0002,Sean Robinson (@@TheFFKoala),0509,"Jaguars, Jacksonville",Def,NA,JAC
+67432,2023-05-26T18:53:29Z,10,07,169,0003,bob voytko (@@btvoytko),13233,"Shanahan, Kyle",Coach,NA,SFO
+67432,2023-05-26T18:53:29Z,10,08,170,0009,Joshua Reedy (@@joshreedy5),16216,"Washington, Darnell",TE,21.8,PIT
+67432,2023-05-26T19:36:07Z,10,09,171,0004,Drew Hamilton (@Samsnackwright),0506,"Bengals, Cincinnati",Def,NA,CIN
+67432,2023-05-26T19:36:07Z,10,10,172,0007,Andrew Bernhard (@Stoicphysician),15293,"Bateman, Rashod",WR,23.5,BAL
+67432,2023-05-26T21:17:24Z,10,11,173,0001,Jeff Bell,11761,"McKinnon, Jerick",RB,31.1,KCC
+67432,2023-05-26T21:20:14Z,10,12,174,0016,Colin Williams (@colin_williams1),13354,"Butker, Harrison",PK,27.9,KCC
+67432,2023-05-27T00:43:49Z,10,13,175,0005,John Supowitz (@ImThatSupi ),13303,"Elliott, Jake",PK,28.3,PHI
+67432,2023-05-27T00:45:09Z,10,14,176,0015,Sam (@BuyAndSellYou),13134,"Foreman, D'Onta",RB,27.1,CHI
+67432,2023-05-27T00:45:09Z,10,15,177,0013,Treystation360,0523,"Packers, Green Bay",Def,NA,GBP
+67432,2023-05-27T00:53:43Z,10,16,178,0010,Corey Hirt (@Corey.Hirt827),11985,"Way, Tress",PN,33.1,WAS
+67432,2023-05-27T00:53:43Z,10,17,179,0014,Keita Shimizu (@its_rs_kei),16173,"Gray, Eric",RB,23.6,NYG
+67432,2023-05-27T01:07:47Z,10,18,180,0006,Brandon Pauley (@statWizz_ffb),15263,"Mitchell, Elijah",RB,25.1,SFO
+67432,2023-05-27T01:18:21Z,11,01,181,0006,Brandon Pauley (@statWizz_ffb),11679,"Beckham, Odell",WR,30.6,BAL
+67432,2023-05-27T01:18:21Z,11,02,182,0014,Keita Shimizu (@its_rs_kei),16205,"Scott, Tyler",WR,21.6,CHI
+67432,2023-05-27T01:22:53Z,11,03,183,0010,Corey Hirt (@Corey.Hirt827),13772,"Schultz, Dalton",TE,26.9,HOU
+67432,2023-05-27T01:22:53Z,11,04,184,0013,Treystation360,13112,"McDermott, Sean",Coach,49.2,BUF
+67432,2023-05-27T01:27:20Z,11,05,185,0015,Sam (@BuyAndSellYou),0511,"Broncos, Denver",Def,NA,DEN
+67432,2023-05-27T01:28:24Z,11,06,186,0005,John Supowitz (@ImThatSupi ),0502,"Colts, Indianapolis",Def,NA,IND
+67432,2023-05-27T04:40:13Z,11,07,187,0016,Colin Williams (@colin_williams1),15368,"McPherson, Evan",PK,23.8,CIN
+67432,2023-05-27T18:01:05Z,11,08,188,0001,Jeff Bell,16151,"Hooker, Hendon",QB,25.4,DET
+67432,2023-05-27T18:37:17Z,11,09,189,0007,Andrew Bernhard (@Stoicphysician),16190,"Flowers, Zay",WR,22.7,BAL
+67432,2023-05-27T18:37:17Z,11,10,190,0004,Drew Hamilton (@Samsnackwright),12842,"Dixon, Riley",PN,29.8,DEN
+67432,2023-05-27T18:37:17Z,11,11,191,0009,Joshua Reedy (@@joshreedy5),16170,"McIntosh, Kenny",RB,23.2,SEA
+67432,2023-05-27T18:40:38Z,11,12,192,0003,bob voytko (@@btvoytko),12625,"Elliott, Ezekiel",RB,27.8,FA
+67432,2023-05-27T22:13:34Z,11,13,193,0002,Sean Robinson (@@TheFFKoala),16167,"Achane, Devon",RB,21.6,MIA
+67432,2023-05-27T22:22:28Z,11,14,194,0008,Kyle Flaherty (@MNFlaherty),14983,"Bass, Tyler",PK,26.3,BUF
+67432,2023-05-28T02:21:47Z,11,15,195,0018,Eric Fernandez (@LionheartDad),13403,"Koo, Younghoe",PK,28.8,ATL
+67432,2023-05-28T12:30:04Z,11,16,196,0012,Cole Grainger (@theColeGrainger),15887,"Camarda, Jake",PN,24.1,TBB
+67432,2023-05-28T17:18:58Z,11,17,197,0011,Joey Dimarco (@@TheBearsBastard),14141,"Smith Jr., Irv",TE,24.8,CIN
+67432,2023-05-28T17:18:58Z,11,18,198,0017,Douglas Formaniak Jr (@),14143,"Knox, Dawson",TE,26.5,BUF
+67432,2023-05-28T17:18:58Z,12,01,199,0017,Douglas Formaniak Jr (@),13176,"Jones, Zay",WR,28.2,JAC
+67432,2023-05-28T17:31:44Z,12,02,200,0011,Joey Dimarco (@@TheBearsBastard),16194,"Rice, Rashee",WR,23.1,KCC
+67432,2023-05-28T20:23:45Z,12,03,201,0012,Cole Grainger (@theColeGrainger),9899,"McCoy, Colt",QB,36.7,ARI
+67432,2023-05-29T02:01:12Z,12,04,202,0018,Eric Fernandez (@LionheartDad),13832,"Sanders, Jason",PK,27.5,MIA
+67432,2023-05-29T02:05:11Z,12,05,203,0008,Kyle Flaherty (@MNFlaherty),16010,"Wright, Ryan",PN,23,MIN
+67432,2023-05-29T02:22:47Z,12,06,204,0002,Sean Robinson (@@TheFFKoala),15797,"Dulcich, Greg",TE,23.2,DEN
+67432,2023-05-29T02:52:26Z,12,07,205,0003,bob voytko (@@btvoytko),12652,"Thomas, Michael",WR,30.2,NOS
+67432,2023-05-29T02:52:26Z,12,08,206,0009,Joshua Reedy (@@joshreedy5),16193,"Boutte, Kayshon",WR,21.1,NEP
+67432,2023-05-29T04:59:10Z,12,09,207,0004,Drew Hamilton (@Samsnackwright),11936,"Boswell, Chris",PK,33.4,PIT
+67432,2023-05-29T13:35:59Z,12,10,208,0007,Andrew Bernhard (@Stoicphysician),15768,"Pierce, Alec",WR,23.1,IND
+67432,2023-05-29T13:35:59Z,12,11,209,0001,Jeff Bell,16203,"Jones, Charlie",WR,24.6,CIN
+67432,2023-05-29T14:11:52Z,12,12,210,0016,Colin Williams (@colin_williams1),15779,"Doubs, Romeo",WR,23.1,GBP
+67432,2023-05-29T18:21:59Z,12,13,211,0005,John Supowitz (@ImThatSupi ),13793,"Valdes-Scantling, Marquez",WR,28.6,KCC
+67432,2023-05-29T18:33:10Z,12,14,212,0015,Sam (@BuyAndSellYou),12437,"Myers, Jason",PK,32,SEA
+67432,2023-05-29T18:33:10Z,12,15,213,0013,Treystation360,14080,"Singletary, Devin",RB,25.7,HOU
+67432,2023-05-29T21:18:27Z,12,16,214,0010,Corey Hirt (@Corey.Hirt827),0520,"Commanders, Washington",Def,NA,WAS
+67432,2023-05-29T21:18:27Z,12,17,215,0014,Keita Shimizu (@its_rs_kei),16156,"Haener, Jake",QB,24.2,NOS
+67432,2023-05-29T21:45:16Z,12,18,216,0006,Brandon Pauley (@statWizz_ffb),13424,"Hill, Taysom",TE,32.8,NOS
+67432,2023-05-29T22:35:41Z,13,01,217,0006,Brandon Pauley (@statWizz_ffb),14075,"Harris, Damien",RB,26.3,BUF
+67432,2023-05-29T22:35:41Z,13,02,218,0014,Keita Shimizu (@its_rs_kei),16219,"Allen, Davis",TE,22.3,LAR
+67432,2023-05-29T22:43:47Z,13,03,219,0010,Corey Hirt (@Corey.Hirt827),14227,"Wishnowsky, Mitch",PN,31.2,SFO
+67432,2023-05-29T22:43:47Z,13,04,220,0013,Treystation360,13236,"Everett, Gerald",TE,28.9,LAC
+67432,2023-05-29T22:53:29Z,13,05,221,0015,Sam (@BuyAndSellYou),15234,"Sirianni, Nick",Coach,NA,PHI
+67432,2023-05-30T03:30:30Z,13,06,222,0005,John Supowitz (@ImThatSupi ),12539,"Campbell, Dan",Coach,47.1,DET
+67432,2023-05-30T03:39:54Z,13,07,223,0016,Colin Williams (@colin_williams1),15290,"Collins, Nico",WR,24.2,HOU
+67432,2023-05-30T03:39:54Z,13,08,224,0001,Jeff Bell,16192,"Washington, Parker",WR,21.2,JAC
+67432,2023-05-30T11:03:41Z,13,09,225,0007,Andrew Bernhard (@Stoicphysician),14849,"Hodgins, Isaiah",WR,24.6,NYG
+67432,2023-05-30T12:33:46Z,13,10,226,0004,Drew Hamilton (@Samsnackwright),0525,"Buccaneers, Tampa Bay",Def,NA,TBB
+67432,2023-05-30T12:33:46Z,13,11,227,0009,Joshua Reedy (@@joshreedy5),16178,"Mitchell, Keaton",RB,NA,BAL
+67432,2023-05-30T12:56:58Z,13,12,228,0003,bob voytko (@@btvoytko),0507,"Browns, Cleveland",Def,NA,CLE
+67432,2023-05-30T13:13:03Z,13,13,229,0002,Sean Robinson (@@TheFFKoala),12678,"Higbee, Tyler",TE,30.4,LAR
+67432,2023-05-30T13:30:56Z,13,14,230,0008,Kyle Flaherty (@MNFlaherty),13632,"Lazard, Allen",WR,27.5,NYJ
+67432,2023-05-30T13:51:59Z,13,15,231,0018,Eric Fernandez (@LionheartDad),0514,"Chargers, Los Angeles",Def,NA,LAC
+67432,2023-05-30T17:38:03Z,13,16,232,0012,Cole Grainger (@theColeGrainger),15738,"Davis, Malik",RB,24.5,DAL
+67432,2023-05-30T17:47:06Z,13,17,233,0011,Joey Dimarco (@@TheBearsBastard),0515,"Seahawks, Seattle",Def,NA,SEA
+67432,2023-05-30T18:17:04Z,13,18,234,0017,Douglas Formaniak Jr (@),15712,"Allgeier, Tyler",RB,23.1,ATL
+67432,2023-05-30T18:17:42Z,14,01,235,0017,Douglas Formaniak Jr (@),14857,"Peoples-Jones, Donovan",WR,24.3,CLE
+67432,2023-05-30T18:38:58Z,14,02,236,0011,Joey Dimarco (@@TheBearsBastard),15369,"Patterson, Riley",PK,23.7,DET
+67432,2023-05-30T19:31:27Z,14,03,237,0012,Cole Grainger (@theColeGrainger),12650,"Boyd, Tyler",WR,28.5,CIN
+67432,2023-05-30T20:30:23Z,14,04,238,0018,Eric Fernandez (@LionheartDad),14244,"Gay, Matt",PK,29.2,IND
+67432,2023-05-30T21:24:26Z,14,05,239,0008,Kyle Flaherty (@MNFlaherty),15255,"Gainwell, Kenneth",RB,24.2,PHI
+67432,2023-05-30T21:59:30Z,14,06,240,0002,Sean Robinson (@@TheFFKoala),16214,"LaPorta, Sam",TE,22.4,DET
+67432,2023-05-30T22:04:47Z,14,07,241,0003,bob voytko (@@btvoytko),15713,"Ford, Jerome",RB,23.7,CLE
+67432,2023-05-30T22:04:47Z,14,08,242,0009,Joshua Reedy (@@joshreedy5),16196,"Perry, A.T.",WR,23.6,NOS
+67432,2023-05-30T22:58:50Z,14,09,243,0004,Drew Hamilton (@Samsnackwright),8930,"Prater, Matt",PK,38.8,ARI
+67432,2023-05-30T23:04:50Z,14,10,244,0007,Andrew Bernhard (@Stoicphysician),14017,"Wilson, Jeffery",RB,27.5,MIA
+67432,2023-05-30T23:04:50Z,14,11,245,0001,Jeff Bell,16183,"Hyatt, Jalin",WR,21.7,NYG
+67432,2023-05-30T23:30:55Z,14,12,246,0016,Colin Williams (@colin_williams1),16175,"Johnson, Roschon",RB,22.3,CHI
+67432,2023-05-31T04:10:36Z,14,13,247,0005,John Supowitz (@ImThatSupi ),13668,"Chark, D.J.",WR,26.7,CAR
+67432,2023-05-31T04:15:34Z,14,14,248,0015,Sam (@BuyAndSellYou),15283,"Moore, Rondale",WR,23,ARI
+67432,2023-05-31T04:15:34Z,14,15,249,0013,Treystation360,14067,"Minshew, Gardner",QB,27,IND
+67432,2023-05-31T10:41:48Z,14,16,250,0010,Corey Hirt (@Corey.Hirt827),0522,"Lions, Detroit",Def,NA,DET
+67432,2023-05-31T10:41:48Z,14,17,251,0014,Keita Shimizu (@its_rs_kei),16249,"Kuntz, Zack",TE,24,NYJ
+67432,2023-05-31T12:16:42Z,14,18,252,0006,Brandon Pauley (@statWizz_ffb),15766,"Moore, Skyy",WR,22.7,KCC
+67432,2023-05-31T12:37:10Z,15,01,253,0006,Brandon Pauley (@statWizz_ffb),11247,"Ertz, Zach",TE,32.6,ARI
+67432,2023-05-31T12:37:10Z,15,02,254,0014,Keita Shimizu (@its_rs_kei),16176,"Vaughn, Deuce",RB,21.6,DAL
+67432,2023-05-31T12:53:20Z,15,03,255,0010,Corey Hirt (@Corey.Hirt827),15979,"Dicker, Cameron",PK,23.1,LAC
+67432,2023-05-31T12:53:20Z,15,04,256,0013,Treystation360,14489,"Gillan, Jamie",PN,25.9,NYG
+67432,2023-05-31T13:47:39Z,15,05,257,0015,Sam (@BuyAndSellYou),15261,"Hubbard, Chuba",RB,24,CAR
+67432,2023-05-31T19:31:19Z,15,06,258,0005,John Supowitz (@ImThatSupi ),14858,"Jefferson, Van",WR,26.8,LAR
+67432,2023-05-31T21:12:31Z,15,07,259,0016,Colin Williams (@colin_williams1),14717,"McLaughlin, Chase",PK,27.1,TBB
+67432,2023-05-31T21:12:31Z,15,08,260,0001,Jeff Bell,16222,"Kraft, Tucker",TE,22.6,GBP
+67432,2023-05-31T21:20:45Z,15,09,261,0007,Andrew Bernhard (@Stoicphysician),12176,"Parker, DeVante",WR,30.4,NEP
+67432,2023-05-31T22:58:53Z,15,10,262,0004,Drew Hamilton (@Samsnackwright),13869,"Bojorquez, Corey",PN,26.7,CLE
+67432,2023-05-31T22:58:53Z,15,11,263,0009,Joshua Reedy (@@joshreedy5),16172,"Ibrahim, Mohamed",RB,24.7,DET
+67432,2023-05-31T23:20:57Z,15,12,264,0003,bob voytko (@@btvoytko),15258,"Carter, Michael",RB,24.1,NYJ
+67432,2023-05-31T23:50:27Z,15,13,265,0002,Sean Robinson (@@TheFFKoala),0527,"Panthers, Carolina",Def,NA,CAR
+67432,2023-06-01T01:58:26Z,15,14,266,0008,Kyle Flaherty (@MNFlaherty),16181,"Brown, Chase",RB,23.2,CIN
+67432,2023-06-01T02:03:16Z,15,15,267,0018,Eric Fernandez (@LionheartDad),0528,"Rams, Los Angeles",Def,NA,LAR
+67432,2023-06-01T11:23:31Z,15,16,268,0012,Cole Grainger (@theColeGrainger),12323,"Pinion, Bradley",PN,29,ATL
+67432,2023-06-01T13:22:15Z,15,17,269,0011,Joey Dimarco (@@TheBearsBastard),15957,"Gill, Trenton",PN,24.2,CHI
+67432,2023-06-01T17:01:33Z,15,18,270,0017,Douglas Formaniak Jr (@),13675,"Conklin, Tyler",TE,27.8,NYJ
+67432,2023-06-01T17:04:33Z,16,01,271,0017,Douglas Formaniak Jr (@),14803,"Edwards-Helaire, Clyde",RB,24.1,KCC
+67432,2023-06-01T17:40:00Z,16,02,272,0011,Joey Dimarco (@@TheBearsBastard),15690,"Eberflus, Matt",Coach,NA,CHI
+67432,2023-06-01T18:09:00Z,16,03,273,0012,Cole Grainger (@theColeGrainger),15840,"Woods, Jelani",TE,24.6,IND
+67432,2023-06-01T18:09:00Z,16,04,274,0018,Eric Fernandez (@LionheartDad),15032,"Fox, Jack",PN,26.7,DET
+67432,2023-06-01T19:33:13Z,16,05,275,0008,Kyle Flaherty (@MNFlaherty),13157,"Samuel, Curtis",WR,26.8,WAS
+67432,2023-06-01T20:19:54Z,16,06,276,0002,Sean Robinson (@@TheFFKoala),12616,"Brissett, Jacoby",QB,30.5,WAS
+67432,2023-06-01T20:22:29Z,16,07,277,0003,bob voytko (@@btvoytko),15742,"Warren, Jaylen",RB,24.6,PIT
+67432,2023-06-01T20:22:29Z,16,08,278,0009,Joshua Reedy (@@joshreedy5),16217,"Latu, Cameron",TE,23.3,SFO
+67432,2023-06-01T22:44:45Z,16,09,279,0004,Drew Hamilton (@Samsnackwright),16171,"Miller, Kendre",RB,21,NOS
+67432,2023-06-01T22:46:37Z,16,10,280,0007,Andrew Bernhard (@Stoicphysician),13129,"Fournette, Leonard",RB,28.4,FA
+67432,2023-06-01T22:46:37Z,16,11,281,0001,Jeff Bell,16199,"Palmer, Trey",WR,22.2,TBB
+67432,2023-06-01T23:15:07Z,16,12,282,0016,Colin Williams (@colin_williams1),14054,"Taylor, Zac",Coach,40.1,CIN
+67432,2023-06-02T04:48:06Z,16,13,283,0005,John Supowitz (@ImThatSupi ),9298,"Harbaugh, John",Coach,NA,BAL
+67432,2023-06-02T18:00:59Z,16,14,284,0015,Sam (@BuyAndSellYou),16201,"Hutchinson, Xavier",WR,23,HOU
+67432,2023-06-02T18:00:59Z,16,15,285,0013,Treystation360,15668,"Waitman, Corliss",PN,27.9,NEP
+67432,2023-06-02T19:43:26Z,16,16,286,0010,Corey Hirt (@Corey.Hirt827),15288,"Moore, Elijah",WR,23.2,CLE
+67432,2023-06-02T19:43:26Z,16,17,287,0014,Keita Shimizu (@its_rs_kei),16207,"Iosivas, Andrei",WR,23.6,CIN
+67432,2023-06-02T20:36:50Z,16,18,288,0006,Brandon Pauley (@statWizz_ffb),16184,"Reed, Jayden",WR,23.1,GBP
 69348,2023-05-12T13:59:17Z,01,01,1,0009,Tabitha Kuhley (@@tabithakuhley),13116,"Mahomes, Patrick",QB,27.6,KCC
 69348,2023-05-12T13:59:17Z,01,02,2,0004,Nicholas Kwan (@nkwan88),13589,"Allen, Josh",QB,27,BUF
 69348,2023-05-12T13:59:17Z,01,03,3,0011,Richard Sickels (@Gingerbe3rdman),14783,"Hurts, Jalen",QB,24.8,PHI
@@ -28799,6 +29375,294 @@ league_id,timestamp,round,pick,overall,franchise_id,franchise_name,player_id,pla
 72883,2023-05-23T19:20:40Z,16,16,286,0005,Jennifer Smith (@@TheOnlyJenSmith),14244,"Gay, Matt",PK,29.2,IND
 72883,2023-05-23T20:53:19Z,16,17,287,0002,Allan Hepworth (@FF_Hep),15799,"Ferguson, Jake",TE,24.3,DAL
 72883,2023-05-23T20:53:19Z,16,18,288,0004,Bob Voytko (@@btvoytko),16179,"McBride, DeWayne",RB,21.9,MIN
+73076,2023-05-17T00:09:31Z,01,01,1,0013,Colin Williams (@colin_williams1),13589,"Allen, Josh",QB,27,BUF
+73076,2023-05-17T00:30:07Z,01,02,2,0001,Scott Fish 2,13116,"Mahomes, Patrick",QB,27.7,KCC
+73076,2023-05-17T02:17:21Z,01,03,3,0012,Brian Wright (@UOfowllanguage),14783,"Hurts, Jalen",QB,24.8,PHI
+73076,2023-05-17T11:39:46Z,01,04,4,0005,Jonathan Butts (@JonathanButts54),14777,"Burrow, Joe",QB,26.4,CIN
+73076,2023-05-17T11:39:46Z,01,05,5,0017,Ray Gonsalves (@Nacho_Pug),14779,"Herbert, Justin",QB,25.2,LAC
+73076,2023-05-17T12:06:53Z,01,06,6,0010,Leo (@MasterIDP),13593,"Jackson, Lamar",QB,26.4,BAL
+73076,2023-05-17T13:10:20Z,01,07,7,0008,Greg Berthiaume (@GREGGELS17),15238,"Fields, Justin",QB,24.2,CHI
+73076,2023-05-17T13:11:58Z,01,08,8,0004,John Krieg (@Jck158),14836,"Jefferson, Justin",WR,23.9,MIN
+73076,2023-05-17T13:26:49Z,01,09,9,0015,Ryan Voltz (@StillyRyan),15237,"Lawrence, Trevor",QB,23.6,JAC
+73076,2023-05-17T15:11:52Z,01,10,10,0003,Eric Nelson (@@Eric_Nelson__),13113,"Watson, Deshaun",QB,27.7,CLE
+73076,2023-05-17T17:28:46Z,01,11,11,0018,Rachel Woodford (@@tootsiepop6),12620,"Prescott, Dak",QB,29.8,DAL
+73076,2023-05-17T17:40:17Z,01,12,12,0009,Bart Greaton (@DefiKnights),11244,"Kelce, Travis",TE,33.6,KCC
+73076,2023-05-17T17:46:53Z,01,13,13,0016,Gentan Schulteis (@GentanSchulteis),13130,"McCaffrey, Christian",RB,26.9,SFO
+73076,2023-05-17T17:46:53Z,01,14,14,0006,Steve Munger (@@stevenmunger),10700,"Cousins, Kirk",QB,34.7,MIN
+73076,2023-05-17T18:16:58Z,01,15,15,0007,Matt braun (@Beermatterz),11150,"Smith, Geno",QB,32.6,SEA
+73076,2023-05-17T18:52:00Z,01,16,16,0014,Brian Schardt (@Schardt312),15281,"Chase, Ja'Marr",WR,23.2,CIN
+73076,2023-05-17T19:08:17Z,01,17,17,0002,Sean Robinson (@@TheFFKoala),14059,"Jones, Daniel",QB,26,NYG
+73076,2023-05-17T20:51:30Z,01,18,18,0011,Brandon Pauley (@Statwizz_FFB),13404,"Ekeler, Austin",RB,28,LAC
+73076,2023-05-17T20:54:11Z,02,01,19,0011,Brandon Pauley (@Statwizz_FFB),13164,"Kupp, Cooper",WR,29.9,LAR
+73076,2023-05-17T20:56:04Z,02,02,20,0002,Sean Robinson (@@TheFFKoala),12611,"Goff, Jared",QB,28.6,DET
+73076,2023-05-17T20:58:02Z,02,03,21,0014,Brian Schardt (@Schardt312),14778,"Tagovailoa, Tua",QB,25.2,MIA
+73076,2023-05-17T20:59:03Z,02,04,22,0007,Matt braun (@Beermatterz),9431,"Stafford, Matthew",QB,35.3,LAR
+73076,2023-05-17T21:09:11Z,02,05,23,0006,Steve Munger (@@stevenmunger),11644,"Carr, Derek",QB,32.1,NOS
+73076,2023-05-17T21:28:40Z,02,06,24,0016,Gentan Schulteis (@GentanSchulteis),12801,"Hill, Tyreek",WR,29.2,MIA
+73076,2023-05-17T21:44:50Z,02,07,25,0009,Bart Greaton (@DefiKnights),7836,"Rodgers, Aaron",QB,39.5,NYJ
+73076,2023-05-17T21:47:16Z,02,08,26,0018,Rachel Woodford (@@tootsiepop6),14073,"Jacobs, Josh",RB,25.3,LVR
+73076,2023-05-17T22:25:32Z,02,09,27,0003,Eric Nelson (@@Eric_Nelson__),16152,"Richardson, Anthony",QB,21,IND
+73076,2023-05-18T01:13:38Z,02,10,28,0015,Ryan Voltz (@StillyRyan),14782,"Love, Jordan",QB,24.5,GBP
+73076,2023-05-18T01:24:11Z,02,11,29,0004,John Krieg (@Jck158),14104,"Brown, A.J.",WR,25.9,PHI
+73076,2023-05-18T01:39:20Z,02,12,30,0008,Greg Berthiaume (@GREGGELS17),16148,"Young, Bryce",QB,21.8,CAR
+73076,2023-05-18T01:49:59Z,02,13,31,0010,Leo (@MasterIDP),10703,"Wilson, Russell",QB,34.5,DEN
+73076,2023-05-18T06:04:16Z,02,14,32,0017,Ray Gonsalves (@Nacho_Pug),16161,"Robinson, Bijan",RB,21.3,ATL
+73076,2023-05-18T10:33:54Z,02,15,33,0005,Jonathan Butts (@JonathanButts54),13604,"Barkley, Saquon",RB,26.3,NYG
+73076,2023-05-18T10:33:54Z,02,16,34,0012,Brian Wright (@UOfowllanguage),12186,"Diggs, Stefon",WR,29.5,BUF
+73076,2023-05-18T13:53:58Z,02,17,35,0001,Scott Fish 2,15693,"Howell, Sam",QB,22.7,WAS
+73076,2023-05-18T14:59:13Z,02,18,36,0013,Colin Williams (@colin_williams1),14832,"Lamb, CeeDee",WR,24.1,DAL
+73076,2023-05-18T15:01:36Z,03,01,37,0011,Brandon Pauley (@Statwizz_FFB),14056,"Murray, Kyler",QB,25.8,ARI
+73076,2023-05-18T15:08:46Z,03,02,38,0002,Sean Robinson (@@TheFFKoala),13671,"Andrews, Mark",TE,27.7,BAL
+73076,2023-05-18T15:12:27Z,03,03,39,0014,Brian Schardt (@Schardt312),11675,"Adams, Davante",WR,30.4,LVR
+73076,2023-05-18T15:34:50Z,03,04,40,0007,Matt braun (@Beermatterz),14802,"Taylor, Jonathan",RB,24.3,IND
+73076,2023-05-18T15:42:13Z,03,05,41,0006,Steve Munger (@@stevenmunger),15287,"St. Brown, Amon-Ra",WR,23.6,DET
+73076,2023-05-18T15:46:36Z,03,06,42,0016,Gentan Schulteis (@GentanSchulteis),13610,"Chubb, Nick",RB,27.4,CLE
+73076,2023-05-18T18:06:48Z,03,07,43,0009,Bart Greaton (@DefiKnights),14138,"Hockenson, T.J.",TE,25.9,MIN
+73076,2023-05-18T20:31:27Z,03,08,44,0018,Rachel Woodford (@@tootsiepop6),16185,"Smith-Njigba, Jaxon",WR,21.3,SEA
+73076,2023-05-18T21:03:02Z,03,09,45,0003,Eric Nelson (@@Eric_Nelson__),12626,"Henry, Derrick",RB,29.4,TEN
+73076,2023-05-18T21:56:26Z,03,10,46,0015,Ryan Voltz (@StillyRyan),13319,"Jones, Aaron",RB,28.5,GBP
+73076,2023-05-18T22:01:23Z,03,11,47,0004,John Krieg (@Jck158),14085,"Pollard, Tony",RB,26,DAL
+73076,2023-05-19T00:09:14Z,03,12,48,0008,Greg Berthiaume (@GREGGELS17),16150,"Stroud, C.J.",QB,21.6,HOU
+73076,2023-05-19T00:58:39Z,03,13,49,0010,Leo (@MasterIDP),15692,"Pickett, Kenny",QB,25,PIT
+73076,2023-05-19T01:12:13Z,03,14,50,0017,Ray Gonsalves (@Nacho_Pug),15708,"Hall, Breece",RB,22,NYJ
+73076,2023-05-19T03:19:02Z,03,15,51,0005,Jonathan Butts (@JonathanButts54),15259,"Stevenson, Rhamondre",RB,25.2,NEP
+73076,2023-05-19T03:39:30Z,03,16,52,0012,Brian Wright (@UOfowllanguage),15284,"Waddle, Jaylen",WR,24.5,MIA
+73076,2023-05-19T05:00:25Z,03,17,53,0001,Scott Fish 2,16162,"Gibbs, Jahmyr",RB,21.2,DET
+73076,2023-05-19T13:07:37Z,03,18,54,0013,Colin Williams (@colin_williams1),15282,"Smith, DeVonta",WR,24.5,PHI
+73076,2023-05-19T13:08:17Z,04,01,55,0013,Colin Williams (@colin_williams1),11760,"Garoppolo, Jimmy",QB,31.5,LVR
+73076,2023-05-19T13:15:57Z,04,02,56,0001,Scott Fish 2,15253,"Etienne, Travis",RB,24.3,JAC
+73076,2023-05-19T13:15:57Z,04,03,57,0012,Brian Wright (@UOfowllanguage),14102,"Metcalf, DK",WR,25.4,SEA
+73076,2023-05-19T16:59:48Z,04,04,58,0005,Jonathan Butts (@JonathanButts54),13299,"Kittle, George",TE,29.6,SFO
+73076,2023-05-19T17:30:48Z,04,05,59,0017,Ray Gonsalves (@Nacho_Pug),15753,"Wilson, Garrett",WR,22.8,NYJ
+73076,2023-05-19T17:40:10Z,04,06,60,0010,Leo (@MasterIDP),15754,"Olave, Chris",WR,22.9,NOS
+73076,2023-05-19T17:45:40Z,04,07,61,0008,Greg Berthiaume (@GREGGELS17),13131,"Mixon, Joe",RB,26.8,CIN
+73076,2023-05-19T18:02:41Z,04,08,62,0004,John Krieg (@Jck158),15254,"Harris, Najee",RB,25.2,PIT
+73076,2023-05-19T18:07:58Z,04,09,63,0015,Ryan Voltz (@StillyRyan),11222,"Allen, Keenan",WR,31.1,LAC
+73076,2023-05-19T18:24:29Z,04,10,64,0003,Eric Nelson (@@Eric_Nelson__),14800,"Dobbins, J.K.",RB,24.4,BAL
+73076,2023-05-19T20:32:28Z,04,11,65,0018,Rachel Woodford (@@tootsiepop6),13674,"Goedert, Dallas",TE,28.4,PHI
+73076,2023-05-20T01:49:20Z,04,12,66,0009,Bart Greaton (@DefiKnights),12175,"Cooper, Amari",WR,28.9,CLE
+73076,2023-05-20T01:54:04Z,04,13,67,0016,Gentan Schulteis (@GentanSchulteis),14835,"Higgins, Tee",WR,24.3,CIN
+73076,2023-05-20T01:54:04Z,04,14,68,0006,Steve Munger (@@stevenmunger),15331,"Freiermuth, Pat",TE,24.6,PIT
+73076,2023-05-20T03:04:29Z,04,15,69,0007,Matt braun (@Beermatterz),14079,"Sanders, Miles",RB,26.1,CAR
+73076,2023-05-20T03:23:52Z,04,16,70,0014,Brian Schardt (@Schardt312),0504,"Patriots, New England",Def,NA,NEP
+73076,2023-05-20T04:20:09Z,04,17,71,0002,Sean Robinson (@@TheFFKoala),15329,"Pitts, Kyle",TE,22.6,ATL
+73076,2023-05-20T06:14:27Z,04,18,72,0011,Brandon Pauley (@Statwizz_FFB),15697,"Ridder, Desmond",QB,23.7,ATL
+73076,2023-05-20T06:18:56Z,05,01,73,0011,Brandon Pauley (@Statwizz_FFB),15698,"Purdy, Brock",QB,23.4,SFO
+73076,2023-05-20T13:53:48Z,05,02,74,0002,Sean Robinson (@@TheFFKoala),15711,"Walker III, Kenneth",RB,22.6,SEA
+73076,2023-05-20T15:16:24Z,05,03,75,0014,Brian Schardt (@Schardt312),13633,"Kirk, Christian",WR,26.5,JAC
+73076,2023-05-20T15:16:24Z,05,04,76,0007,Matt braun (@Beermatterz),13128,"Cook, Dalvin",RB,27.8,MIN
+73076,2023-05-20T15:28:17Z,05,05,77,0006,Steve Munger (@@stevenmunger),11232,"Hopkins, DeAndre",WR,31,FA
+73076,2023-05-20T15:31:43Z,05,06,78,0016,Gentan Schulteis (@GentanSchulteis),14136,"Samuel, Deebo",WR,27.3,SFO
+73076,2023-05-20T15:49:34Z,05,07,79,0009,Bart Greaton (@DefiKnights),10697,"Tannehill, Ryan",QB,34.8,TEN
+73076,2023-05-20T16:11:20Z,05,08,80,0018,Rachel Woodford (@@tootsiepop6),14797,"Swift, D'Andre",RB,24.3,PHI
+73076,2023-05-20T16:15:39Z,05,09,81,0003,Eric Nelson (@@Eric_Nelson__),13146,"Conner, James",RB,28,ARI
+73076,2023-05-20T16:43:06Z,05,10,82,0015,Ryan Voltz (@StillyRyan),15241,"Jones, Mac",QB,24.7,NEP
+73076,2023-05-20T16:52:40Z,05,11,83,0004,John Krieg (@Jck158),15721,"White, Rachaad",RB,24.1,TBB
+73076,2023-05-20T17:00:57Z,05,12,84,0008,Greg Berthiaume (@GREGGELS17),14799,"Akers, Cam",RB,23.9,LAR
+73076,2023-05-20T17:59:14Z,05,13,85,0010,Leo (@MasterIDP),13629,"Ridley, Calvin",WR,28.4,JAC
+73076,2023-05-20T20:37:11Z,05,14,86,0017,Ray Gonsalves (@Nacho_Pug),12263,"Waller, Darren",TE,30.7,NYG
+73076,2023-05-20T20:42:02Z,05,15,87,0005,Jonathan Butts (@JonathanButts54),0518,"Eagles, Philadelphia",Def,NA,PHI
+73076,2023-05-20T21:24:51Z,05,16,88,0012,Brian Wright (@UOfowllanguage),13590,"Mayfield, Baker",QB,28.1,TBB
+73076,2023-05-21T00:16:35Z,05,17,89,0001,Scott Fish 2,15749,"Pacheco, Isiah",RB,24.2,KCC
+73076,2023-05-21T00:26:47Z,05,18,90,0013,Colin Williams (@colin_williams1),13163,"Godwin, Chris",WR,27.2,TBB
+73076,2023-05-21T00:32:02Z,06,01,91,0013,Colin Williams (@colin_williams1),15751,"London, Drake",WR,21.8,ATL
+73076,2023-05-21T02:02:32Z,06,02,92,0001,Scott Fish 2,15256,"Williams, Javonte",RB,23.1,DEN
+73076,2023-05-21T02:02:32Z,06,03,93,0012,Brian Wright (@UOfowllanguage),15240,"Lance, Trey",QB,23,SFO
+73076,2023-05-21T05:06:10Z,06,04,94,0005,Jonathan Butts (@JonathanButts54),14842,"Pittman, Michael",WR,25.6,IND
+73076,2023-05-21T05:15:38Z,06,05,95,0017,Ray Gonsalves (@Nacho_Pug),11671,"Evans, Mike",WR,29.7,TBB
+73076,2023-05-21T11:08:30Z,06,06,96,0010,Leo (@MasterIDP),15789,"Watson, Christian",WR,24,GBP
+73076,2023-05-21T14:06:25Z,06,07,97,0008,Greg Berthiaume (@GREGGELS17),14071,"Montgomery, David",RB,26,DET
+73076,2023-05-21T14:33:47Z,06,08,98,0004,John Krieg (@Jck158),16011,"Stonehouse, Ryan",PN,24,TEN
+73076,2023-05-21T14:38:26Z,06,09,99,0015,Ryan Voltz (@StillyRyan),16186,"Addison, Jordan",WR,21.3,MIN
+73076,2023-05-21T14:45:10Z,06,10,100,0003,Eric Nelson (@@Eric_Nelson__),14109,"McLaurin, Terry",WR,27.7,WAS
+73076,2023-05-21T15:17:31Z,06,11,101,0018,Rachel Woodford (@@tootsiepop6),13635,"Moore, D.J.",WR,26.1,CHI
+73076,2023-05-21T16:10:06Z,06,12,102,0009,Bart Greaton (@DefiKnights),0530,"49ers, San Francisco",Def,NA,SFO
+73076,2023-05-21T16:44:21Z,06,13,103,0016,Gentan Schulteis (@GentanSchulteis),13154,"Williams, Mike",WR,28.6,LAC
+73076,2023-05-21T16:48:05Z,06,14,104,0006,Steve Munger (@@stevenmunger),14833,"Jeudy, Jerry",WR,24.1,DEN
+73076,2023-05-21T17:09:06Z,06,15,105,0007,Matt braun (@Beermatterz),12187,"Lockett, Tyler",WR,30.6,SEA
+73076,2023-05-21T17:46:04Z,06,16,106,0014,Brian Schardt (@Schardt312),14840,"Aiyuk, Brandon",WR,25.2,SFO
+73076,2023-05-21T20:38:23Z,06,17,107,0002,Sean Robinson (@@TheFFKoala),15717,"Pierce, Dameon",RB,23.2,HOU
+73076,2023-05-21T20:40:13Z,06,18,108,0011,Brandon Pauley (@Statwizz_FFB),13132,"Kamara, Alvin",RB,27.8,NOS
+73076,2023-05-21T21:08:29Z,07,01,109,0011,Brandon Pauley (@Statwizz_FFB),14223,"Mattison, Alexander",RB,24.9,MIN
+73076,2023-05-21T22:51:12Z,07,02,110,0002,Sean Robinson (@@TheFFKoala),0516,"Cowboys, Dallas",Def,NA,DAL
+73076,2023-05-22T00:12:54Z,07,03,111,0014,Brian Schardt (@Schardt312),14805,"Dillon, AJ",RB,25.1,GBP
+73076,2023-05-22T05:20:47Z,07,04,112,0007,Matt braun (@Beermatterz),0501,"Bills, Buffalo",Def,NA,BUF
+73076,2023-05-22T05:20:47Z,07,05,113,0006,Steve Munger (@@stevenmunger),14105,"Brown, Marquise",WR,26,ARI
+73076,2023-05-22T11:11:24Z,07,06,114,0016,Gentan Schulteis (@GentanSchulteis),13189,"Engram, Evan",TE,28.7,JAC
+73076,2023-05-22T11:51:46Z,07,07,115,0009,Bart Greaton (@DefiKnights),10945,"Hekker, Johnny",PN,33.3,CAR
+73076,2023-05-22T14:32:19Z,07,08,116,0018,Rachel Woodford (@@tootsiepop6),15715,"Cook, James",RB,23.7,BUF
+73076,2023-05-22T14:32:19Z,07,09,117,0003,Eric Nelson (@@Eric_Nelson__),14208,"Johnson, Diontae",WR,26.9,PIT
+73076,2023-05-22T15:06:44Z,07,10,118,0015,Ryan Voltz (@StillyRyan),13848,"Johnston, Cam",PN,31.2,HOU
+73076,2023-05-22T15:06:44Z,07,11,119,0004,John Krieg (@Jck158),15716,"Robinson, Brian",RB,24.2,WAS
+73076,2023-05-22T15:26:35Z,07,12,120,0008,Greg Berthiaume (@GREGGELS17),13133,"Perine, Samaje",RB,27.7,DEN
+73076,2023-05-22T16:47:21Z,07,13,121,0010,Leo (@MasterIDP),15752,"Burks, Treylon",WR,23.2,TEN
+73076,2023-05-22T16:52:47Z,07,14,122,0017,Ray Gonsalves (@Nacho_Pug),16213,"Kincaid, Dalton",TE,23.6,BUF
+73076,2023-05-22T20:52:06Z,07,15,123,0005,Jonathan Butts (@JonathanButts54),11761,"McKinnon, Jerick",RB,31,KCC
+73076,2023-05-22T20:52:06Z,07,16,124,0012,Brian Wright (@UOfowllanguage),15755,"Dotson, Jahan",WR,23.2,WAS
+73076,2023-05-22T20:53:58Z,07,17,125,0001,Scott Fish 2,15889,"Okonkwo, Chigoziem",TE,23.7,TEN
+73076,2023-05-22T21:10:05Z,07,18,126,0013,Colin Williams (@colin_williams1),14852,"Gibson, Antonio",RB,24.9,WAS
+73076,2023-05-22T21:10:43Z,08,01,127,0013,Colin Williams (@colin_williams1),13156,"Smith-Schuster, JuJu",WR,26.5,NEP
+73076,2023-05-22T21:19:20Z,08,02,128,0001,Scott Fish 2,3622,"Reid, Andy",Coach,NA,KCC
+73076,2023-05-22T22:19:22Z,08,03,129,0012,Brian Wright (@UOfowllanguage),15762,"Pickens, George",WR,22.2,PIT
+73076,2023-05-23T01:55:04Z,08,04,130,0005,Jonathan Butts (@JonathanButts54),0505,"Jets, New York",Def,NA,NYJ
+73076,2023-05-23T04:01:06Z,08,05,131,0017,Ray Gonsalves (@Nacho_Pug),14798,"Moss, Zack",RB,25.4,IND
+73076,2023-05-23T10:41:39Z,08,06,132,0010,Leo (@MasterIDP),11674,"Cooks, Brandin",WR,29.7,DAL
+73076,2023-05-23T13:32:27Z,08,07,133,0008,Greg Berthiaume (@GREGGELS17),13354,"Butker, Harrison",PK,27.9,KCC
+73076,2023-05-23T14:19:25Z,08,08,134,0004,John Krieg (@Jck158),13139,"Williams, Jamaal",RB,28.1,NOS
+73076,2023-05-23T14:33:33Z,08,09,135,0015,Ryan Voltz (@StillyRyan),14845,"Davis, Gabriel",WR,24.1,BUF
+73076,2023-05-23T14:33:33Z,08,10,136,0003,Eric Nelson (@@Eric_Nelson__),15293,"Bateman, Rashod",WR,23.5,BAL
+73076,2023-05-23T16:42:19Z,08,11,137,0018,Rachel Woodford (@@tootsiepop6),13233,"Shanahan, Kyle",Coach,NA,SFO
+73076,2023-05-23T16:52:59Z,08,12,138,0009,Bart Greaton (@DefiKnights),0531,"Ravens, Baltimore",Def,NA,BAL
+73076,2023-05-23T17:10:32Z,08,13,139,0016,Gentan Schulteis (@GentanSchulteis),10814,"Anger, Bryan",PN,34.6,DAL
+73076,2023-05-23T17:10:32Z,08,14,140,0006,Steve Munger (@@stevenmunger),13772,"Schultz, Dalton",TE,26.9,HOU
+73076,2023-05-23T17:19:07Z,08,15,141,0007,Matt braun (@Beermatterz),13192,"Njoku, David",TE,26.9,CLE
+73076,2023-05-23T17:40:59Z,08,16,142,0014,Brian Schardt (@Schardt312),13718,"Carlson, Daniel",PK,28.3,LVR
+73076,2023-05-23T20:40:57Z,08,17,143,0002,Sean Robinson (@@TheFFKoala),0503,"Dolphins, Miami",Def,NA,MIA
+73076,2023-05-23T20:43:32Z,08,18,144,0011,Brandon Pauley (@Statwizz_FFB),12652,"Thomas, Michael",WR,30.2,NOS
+73076,2023-05-23T21:20:38Z,09,01,145,0011,Brandon Pauley (@Statwizz_FFB),13630,"Sutton, Courtland",WR,27.6,DEN
+73076,2023-05-23T22:06:17Z,09,02,146,0002,Sean Robinson (@@TheFFKoala),0511,"Broncos, Denver",Def,NA,DEN
+73076,2023-05-23T22:35:50Z,09,03,147,0014,Brian Schardt (@Schardt312),15234,"Sirianni, Nick",Coach,NA,PHI
+73076,2023-05-23T23:20:37Z,09,04,148,0007,Matt braun (@Beermatterz),14075,"Harris, Damien",RB,26.3,BUF
+73076,2023-05-23T23:25:22Z,09,05,149,0006,Steve Munger (@@stevenmunger),13869,"Bojorquez, Corey",PN,26.7,CLE
+73076,2023-05-23T23:32:08Z,09,06,150,0016,Gentan Schulteis (@GentanSchulteis),0510,"Steelers, Pittsburgh",Def,NA,PIT
+73076,2023-05-24T01:10:14Z,09,07,151,0009,Bart Greaton (@DefiKnights),12678,"Higbee, Tyler",TE,30.4,LAR
+73076,2023-05-24T04:23:42Z,09,08,152,0018,Rachel Woodford (@@tootsiepop6),13176,"Jones, Zay",WR,28.2,JAC
+73076,2023-05-24T05:11:26Z,09,09,153,0003,Eric Nelson (@@Eric_Nelson__),16188,"Johnston, Quentin",WR,21.7,LAC
+73076,2023-05-24T12:58:21Z,09,10,154,0015,Ryan Voltz (@StillyRyan),16167,"Achane, Devon",RB,21.6,MIA
+73076,2023-05-24T13:36:50Z,09,11,155,0004,John Krieg (@Jck158),11985,"Way, Tress",PN,33.1,WAS
+73076,2023-05-24T14:07:25Z,09,12,156,0008,Greg Berthiaume (@GREGGELS17),0522,"Lions, Detroit",Def,NA,DET
+73076,2023-05-24T19:58:25Z,09,13,157,0010,Leo (@MasterIDP),13782,"Dickson, Michael",PN,27.4,SEA
+73076,2023-05-24T19:58:25Z,09,14,158,0017,Ray Gonsalves (@Nacho_Pug),10976,"Tucker, Justin",PK,33.5,BAL
+73076,2023-05-24T22:20:44Z,09,15,159,0005,Jonathan Butts (@JonathanButts54),0512,"Chiefs, Kansas City",Def,NA,KCC
+73076,2023-05-24T22:20:44Z,09,16,160,0012,Brian Wright (@UOfowllanguage),14861,"Johnson, Juwan",TE,26.7,NOS
+73076,2023-05-25T02:35:14Z,09,17,161,0001,Scott Fish 2,15368,"McPherson, Evan",PK,23.8,CIN
+73076,2023-05-25T03:49:39Z,09,18,162,0013,Colin Williams (@colin_williams1),16169,"Charbonnet, Zach",RB,22.4,SEA
+73076,2023-05-25T03:50:24Z,10,01,163,0013,Colin Williams (@colin_williams1),14143,"Knox, Dawson",TE,26.5,BUF
+73076,2023-05-25T13:20:15Z,10,02,164,0001,Scott Fish 2,12539,"Campbell, Dan",Coach,47.1,DET
+73076,2023-05-25T13:20:15Z,10,03,165,0012,Brian Wright (@UOfowllanguage),14017,"Wilson, Jeffery",RB,27.5,MIA
+73076,2023-05-25T15:52:25Z,10,04,166,0005,Jonathan Butts (@JonathanButts54),13844,"Cooke, Logan",PN,27.8,JAC
+73076,2023-05-25T15:56:59Z,10,05,167,0017,Ray Gonsalves (@Nacho_Pug),0506,"Bengals, Cincinnati",Def,NA,CIN
+73076,2023-05-25T16:11:19Z,10,06,168,0010,Leo (@MasterIDP),15289,"Toney, Kadarius",WR,24.3,KCC
+73076,2023-05-25T17:36:03Z,10,07,169,0008,Greg Berthiaume (@GREGGELS17),0509,"Jaguars, Jacksonville",Def,NA,JAC
+73076,2023-05-25T17:39:01Z,10,08,170,0004,John Krieg (@Jck158),15271,"Herbert, Khalil",RB,25.1,CHI
+73076,2023-05-25T23:45:22Z,10,09,171,0015,Ryan Voltz (@StillyRyan),16191,"Tillman, Cedric",WR,23.1,CLE
+73076,2023-05-26T05:33:47Z,10,10,172,0003,Eric Nelson (@@Eric_Nelson__),0529,"Saints, New Orleans",Def,NA,NOS
+73076,2023-05-26T05:35:45Z,10,11,173,0018,Rachel Woodford (@@tootsiepop6),14067,"Minshew, Gardner",QB,27,IND
+73076,2023-05-26T11:08:51Z,10,12,174,0009,Bart Greaton (@DefiKnights),13236,"Everett, Gerald",TE,28.9,LAC
+73076,2023-05-26T11:12:21Z,10,13,175,0016,Gentan Schulteis (@GentanSchulteis),0523,"Packers, Green Bay",Def,NA,GBP
+73076,2023-05-26T11:49:49Z,10,14,176,0006,Steve Munger (@@stevenmunger),0502,"Colts, Indianapolis",Def,NA,IND
+73076,2023-05-26T14:43:12Z,10,15,177,0007,Matt braun (@Beermatterz),14867,"Kmet, Cole",TE,24.2,CHI
+73076,2023-05-26T14:52:30Z,10,16,178,0014,Brian Schardt (@Schardt312),15797,"Dulcich, Greg",TE,23.2,DEN
+73076,2023-05-26T15:04:57Z,10,17,179,0002,Sean Robinson (@@TheFFKoala),0520,"Commanders, Washington",Def,NA,WAS
+73076,2023-05-26T15:26:38Z,10,18,180,0011,Brandon Pauley (@Statwizz_FFB),12625,"Elliott, Ezekiel",RB,27.8,FA
+73076,2023-05-26T15:33:48Z,11,01,181,0011,Brandon Pauley (@Statwizz_FFB),13424,"Hill, Taysom",TE,32.8,NOS
+73076,2023-05-26T16:24:23Z,11,02,182,0002,Sean Robinson (@@TheFFKoala),0525,"Buccaneers, Tampa Bay",Def,NA,TBB
+73076,2023-05-26T18:53:47Z,11,03,183,0014,Brian Schardt (@Schardt312),13632,"Lazard, Allen",WR,27.5,NYJ
+73076,2023-05-26T19:37:35Z,11,04,184,0007,Matt braun (@Beermatterz),13134,"Foreman, D'Onta",RB,27.1,CHI
+73076,2023-05-26T19:37:35Z,11,05,185,0006,Steve Munger (@@stevenmunger),11247,"Ertz, Zach",TE,32.5,ARI
+73076,2023-05-26T19:46:02Z,11,06,186,0016,Gentan Schulteis (@GentanSchulteis),0527,"Panthers, Carolina",Def,NA,CAR
+73076,2023-05-26T20:50:50Z,11,07,187,0009,Bart Greaton (@DefiKnights),0519,"Cardinals, Arizona",Def,NA,ARI
+73076,2023-05-26T23:10:48Z,11,08,188,0018,Rachel Woodford (@@tootsiepop6),9694,"Gano, Graham",PK,36.1,NYG
+73076,2023-05-27T04:00:45Z,11,09,189,0003,Eric Nelson (@@Eric_Nelson__),16214,"LaPorta, Sam",TE,22.4,DET
+73076,2023-05-27T04:00:45Z,11,10,190,0015,Ryan Voltz (@StillyRyan),16180,"Hull, Evan",RB,22.6,IND
+73076,2023-05-27T11:52:55Z,11,11,191,0004,John Krieg (@Jck158),0507,"Browns, Cleveland",Def,NA,CLE
+73076,2023-05-27T12:24:50Z,11,12,192,0008,Greg Berthiaume (@GREGGELS17),0515,"Seahawks, Seattle",Def,NA,SEA
+73076,2023-05-27T12:44:35Z,11,13,193,0010,Leo (@MasterIDP),0514,"Chargers, Los Angeles",Def,NA,LAC
+73076,2023-05-27T13:10:25Z,11,14,194,0017,Ray Gonsalves (@Nacho_Pug),11936,"Boswell, Chris",PK,33.4,PIT
+73076,2023-05-27T16:20:59Z,11,15,195,0005,Jonathan Butts (@JonathanButts54),14630,"Cole, A.J.",PN,27.5,LVR
+73076,2023-05-27T16:20:59Z,11,16,196,0012,Brian Wright (@UOfowllanguage),15263,"Mitchell, Elijah",RB,25.1,SFO
+73076,2023-05-27T16:59:15Z,11,17,197,0001,Scott Fish 2,16010,"Wright, Ryan",PN,23,MIN
+73076,2023-05-27T17:19:51Z,11,18,198,0013,Colin Williams (@colin_williams1),9899,"McCoy, Colt",QB,36.7,ARI
+73076,2023-05-27T17:20:18Z,12,01,199,0013,Colin Williams (@colin_williams1),16164,"Bigsby, Tank",RB,21.7,JAC
+73076,2023-05-27T17:25:18Z,12,02,200,0001,Scott Fish 2,0524,"Vikings, Minnesota",Def,NA,MIN
+73076,2023-05-27T20:33:06Z,12,03,201,0012,Brian Wright (@UOfowllanguage),13303,"Elliott, Jake",PK,28.3,PHI
+73076,2023-05-27T22:44:31Z,12,04,202,0005,Jonathan Butts (@JonathanButts54),15887,"Camarda, Jake",PN,24.1,TBB
+73076,2023-05-27T22:46:49Z,12,05,203,0017,Ray Gonsalves (@Nacho_Pug),15499,"Gillikin, Blake",PN,25.3,NOS
+73076,2023-05-28T01:25:08Z,12,06,204,0010,Leo (@MasterIDP),14489,"Gillan, Jamie",PN,25.9,NYG
+73076,2023-05-28T02:59:53Z,12,07,205,0008,Greg Berthiaume (@GREGGELS17),13112,"McDermott, Sean",Coach,49.2,BUF
+73076,2023-05-28T11:23:34Z,12,08,206,0004,John Krieg (@Jck158),15288,"Moore, Elijah",WR,23.2,CLE
+73076,2023-05-28T11:23:34Z,12,09,207,0015,Ryan Voltz (@StillyRyan),16182,"Peoples, Camerun",RB,23.7,CAR
+73076,2023-05-28T12:09:41Z,12,10,208,0003,Eric Nelson (@@Eric_Nelson__),16184,"Reed, Jayden",WR,23.1,GBP
+73076,2023-05-28T13:03:47Z,12,11,209,0018,Rachel Woodford (@@tootsiepop6),11679,"Beckham, Odell",WR,30.6,BAL
+73076,2023-05-28T13:39:32Z,12,12,210,0009,Bart Greaton (@DefiKnights),15032,"Fox, Jack",PN,26.7,DET
+73076,2023-05-28T13:42:46Z,12,13,211,0016,Gentan Schulteis (@GentanSchulteis),12323,"Pinion, Bradley",PN,29,ATL
+73076,2023-05-28T13:46:27Z,12,14,212,0006,Steve Munger (@@stevenmunger),15979,"Dicker, Cameron",PK,23.1,LAC
+73076,2023-05-28T13:59:33Z,12,15,213,0007,Matt braun (@Beermatterz),16221,"Schoonmaker, Luke",TE,24.7,DAL
+73076,2023-05-28T17:50:32Z,12,16,214,0014,Brian Schardt (@Schardt312),14127,"Meyers, Jakobi",WR,26.5,LVR
+73076,2023-05-28T18:04:23Z,12,17,215,0002,Sean Robinson (@@TheFFKoala),14141,"Smith Jr., Irv",TE,24.8,CIN
+73076,2023-05-28T21:10:16Z,12,18,216,0011,Brandon Pauley (@Statwizz_FFB),16190,"Flowers, Zay",WR,22.7,BAL
+73076,2023-05-28T21:12:05Z,13,01,217,0011,Brandon Pauley (@Statwizz_FFB),16174,"Rodriguez, Chris",RB,22.7,WAS
+73076,2023-05-28T21:55:42Z,13,02,218,0002,Sean Robinson (@@TheFFKoala),0528,"Rams, Los Angeles",Def,NA,LAR
+73076,2023-05-29T03:40:42Z,13,03,219,0014,Brian Schardt (@Schardt312),15738,"Davis, Malik",RB,24.5,DAL
+73076,2023-05-29T04:33:51Z,13,04,220,0007,Matt braun (@Beermatterz),15756,"Williams, Jameson",WR,22.2,DET
+73076,2023-05-29T04:33:51Z,13,05,221,0006,Steve Munger (@@stevenmunger),15668,"Waitman, Corliss",PN,27.9,NEP
+73076,2023-05-29T12:31:00Z,13,06,222,0016,Gentan Schulteis (@GentanSchulteis),15051,"Townsend, Tommy",PN,26.5,KCC
+73076,2023-05-29T13:06:11Z,13,07,223,0009,Bart Greaton (@DefiKnights),15794,"McBride, Trey",TE,23.5,ARI
+73076,2023-05-29T16:21:56Z,13,08,224,0018,Rachel Woodford (@@tootsiepop6),15779,"Doubs, Romeo",WR,23.1,GBP
+73076,2023-05-29T16:31:19Z,13,09,225,0003,Eric Nelson (@@Eric_Nelson__),13608,"Penny, Rashaad",RB,27.3,PHI
+73076,2023-05-29T16:31:19Z,13,10,226,0015,Ryan Voltz (@StillyRyan),16173,"Gray, Eric",RB,23.6,NYG
+73076,2023-05-29T17:44:18Z,13,11,227,0004,John Krieg (@Jck158),12842,"Dixon, Riley",PN,29.8,DEN
+73076,2023-05-29T18:36:17Z,13,12,228,0008,Greg Berthiaume (@GREGGELS17),0526,"Falcons, Atlanta",Def,NA,ATL
+73076,2023-05-29T20:13:58Z,13,13,229,0010,Leo (@MasterIDP),14983,"Bass, Tyler",PK,26.3,BUF
+73076,2023-05-29T20:13:58Z,13,14,230,0017,Ray Gonsalves (@Nacho_Pug),13672,"Gesicki, Mike",TE,27.7,NEP
+73076,2023-05-29T20:50:21Z,13,15,231,0005,Jonathan Butts (@JonathanButts54),14054,"Taylor, Zac",Coach,40.1,CIN
+73076,2023-05-29T20:50:21Z,13,16,232,0012,Brian Wright (@UOfowllanguage),13403,"Koo, Younghoe",PK,28.8,ATL
+73076,2023-05-29T21:40:34Z,13,17,233,0001,Scott Fish 2,15290,"Collins, Nico",WR,24.2,HOU
+73076,2023-05-29T22:02:28Z,13,18,234,0013,Colin Williams (@colin_williams1),12437,"Myers, Jason",PK,32,SEA
+73076,2023-05-29T22:02:37Z,14,01,235,0013,Colin Williams (@colin_williams1),15742,"Warren, Jaylen",RB,24.6,PIT
+73076,2023-05-29T22:03:56Z,14,02,236,0001,Scott Fish 2,13898,"Joseph, Greg",PK,28.8,MIN
+73076,2023-05-29T23:05:59Z,14,03,237,0012,Brian Wright (@UOfowllanguage),15768,"Pierce, Alec",WR,23.1,IND
+73076,2023-05-29T23:32:57Z,14,04,238,0005,Jonathan Butts (@JonathanButts54),15884,"Stout, Jordan",PN,24.8,BAL
+73076,2023-05-30T01:28:34Z,14,05,239,0017,Ray Gonsalves (@Nacho_Pug),13668,"Chark, D.J.",WR,26.7,CAR
+73076,2023-05-30T03:09:18Z,14,06,240,0010,Leo (@MasterIDP),9596,"Morstead, Thomas",PN,37.2,NYJ
+73076,2023-05-30T03:12:56Z,14,07,241,0008,Greg Berthiaume (@GREGGELS17),0532,"Texans, Houston",Def,NA,HOU
+73076,2023-05-30T15:58:58Z,14,08,242,0004,John Krieg (@Jck158),15757,"Robinson, Wan'Dale",WR,22.4,NYG
+73076,2023-05-30T15:58:58Z,14,09,243,0015,Ryan Voltz (@StillyRyan),16205,"Scott, Tyler",WR,21.6,CHI
+73076,2023-05-30T16:42:20Z,14,10,244,0003,Eric Nelson (@@Eric_Nelson__),16171,"Miller, Kendre",RB,21,NOS
+73076,2023-05-30T20:25:44Z,14,11,245,0018,Rachel Woodford (@@tootsiepop6),15840,"Woods, Jelani",TE,24.6,IND
+73076,2023-05-30T21:28:16Z,14,12,246,0009,Bart Greaton (@DefiKnights),13157,"Samuel, Curtis",WR,26.8,WAS
+73076,2023-05-30T22:45:22Z,14,13,247,0016,Gentan Schulteis (@GentanSchulteis),11383,"Martin, Sam",PN,33.3,BUF
+73076,2023-05-30T23:16:03Z,14,14,248,0006,Steve Munger (@@stevenmunger),8235,"McCarthy, Mike",Coach,NA,DAL
+73076,2023-05-31T01:09:20Z,14,15,249,0007,Matt braun (@Beermatterz),12447,"Mostert, Raheem",RB,31.1,MIA
+73076,2023-05-31T06:32:42Z,14,16,250,0014,Brian Schardt (@Schardt312),11938,"Thielen, Adam",WR,32.8,CAR
+73076,2023-05-31T13:51:57Z,14,17,251,0002,Sean Robinson (@@TheFFKoala),0508,"Titans, Tennessee",Def,NA,TEN
+73076,2023-05-31T14:13:41Z,14,18,252,0011,Brandon Pauley (@Statwizz_FFB),14858,"Jefferson, Van",WR,26.8,LAR
+73076,2023-05-31T14:29:23Z,15,01,253,0011,Brandon Pauley (@Statwizz_FFB),12676,"Henry, Hunter",TE,28.5,NEP
+73076,2023-05-31T15:41:12Z,15,02,254,0002,Sean Robinson (@@TheFFKoala),14137,"Fant, Noah",TE,25.5,SEA
+73076,2023-05-31T15:44:16Z,15,03,255,0014,Brian Schardt (@Schardt312),16197,"Mingo, Jonathan",WR,22.1,CAR
+73076,2023-05-31T15:51:02Z,15,04,256,0007,Matt braun (@Beermatterz),14076,"Williams, Trayveon",RB,25.6,CIN
+73076,2023-05-31T15:56:25Z,15,05,257,0006,Steve Munger (@@stevenmunger),13129,"Fournette, Leonard",RB,28.4,FA
+73076,2023-05-31T15:57:33Z,15,06,258,0016,Gentan Schulteis (@GentanSchulteis),0517,"Giants, New York",Def,NA,NYG
+73076,2023-05-31T18:03:08Z,15,07,259,0009,Bart Greaton (@DefiKnights),8851,"Folk, Nick",PK,38.6,NEP
+73076,2023-05-31T18:06:01Z,15,08,260,0018,Rachel Woodford (@@tootsiepop6),14080,"Singletary, Devin",RB,25.7,HOU
+73076,2023-05-31T18:15:48Z,15,09,261,0003,Eric Nelson (@@Eric_Nelson__),16165,"Spears, Tyjae",RB,22,TEN
+73076,2023-05-31T18:15:48Z,15,10,262,0015,Ryan Voltz (@StillyRyan),16192,"Washington, Parker",WR,21.2,JAC
+73076,2023-05-31T19:27:03Z,15,11,263,0004,John Krieg (@Jck158),15712,"Allgeier, Tyler",RB,23.1,ATL
+73076,2023-05-31T19:31:12Z,15,12,264,0008,Greg Berthiaume (@GREGGELS17),0521,"Bears, Chicago",Def,NA,CHI
+73076,2023-05-31T20:36:45Z,15,13,265,0010,Leo (@MasterIDP),12650,"Boyd, Tyler",WR,28.5,CIN
+73076,2023-05-31T23:18:01Z,15,14,266,0017,Ray Gonsalves (@Nacho_Pug),13646,"Gallup, Michael",WR,27.2,DAL
+73076,2023-06-01T10:12:07Z,15,15,267,0005,Jonathan Butts (@JonathanButts54),10868,"Zuerlein, Greg",PK,35.4,NYJ
+73076,2023-06-01T10:12:07Z,15,16,268,0012,Brian Wright (@UOfowllanguage),16166,"Tucker, Sean",RB,21.6,TBB
+73076,2023-06-01T11:48:35Z,15,17,269,0001,Scott Fish 2,15798,"Likely, Isaiah",TE,23.1,BAL
+73076,2023-06-01T14:55:49Z,15,18,270,0013,Colin Williams (@colin_williams1),16175,"Johnson, Roschon",RB,22.3,CHI
+73076,2023-06-01T14:56:04Z,16,01,271,0013,Colin Williams (@colin_williams1),13832,"Sanders, Jason",PK,27.5,MIA
+73076,2023-06-01T15:01:25Z,16,02,272,0001,Scott Fish 2,13980,"Badgley, Mike",PK,27.8,DET
+73076,2023-06-01T16:42:19Z,16,03,273,0012,Brian Wright (@UOfowllanguage),13598,"White, Mike",QB,28.2,MIA
+73076,2023-06-01T20:15:46Z,16,04,274,0005,Jonathan Butts (@JonathanButts54),14857,"Peoples-Jones, Donovan",WR,24.3,CLE
+73076,2023-06-01T22:31:19Z,16,05,275,0017,Ray Gonsalves (@Nacho_Pug),13719,"Pineiro, Eddy",PK,27.7,CAR
+73076,2023-06-01T22:31:19Z,16,06,276,0010,Leo (@MasterIDP),15283,"Moore, Rondale",WR,23,ARI
+73076,2023-06-02T00:26:14Z,16,07,277,0008,Greg Berthiaume (@GREGGELS17),0513,"Raiders, Las Vegas",Def,NA,LVR
+73076,2023-06-02T00:42:43Z,16,08,278,0004,John Krieg (@Jck158),13793,"Valdes-Scantling, Marquez",WR,28.6,KCC
+73076,2023-06-02T00:42:43Z,16,09,279,0015,Ryan Voltz (@StillyRyan),16203,"Jones, Charlie",WR,24.6,CIN
+73076,2023-06-02T04:32:50Z,16,10,280,0003,Eric Nelson (@@Eric_Nelson__),16187,"Downs, Josh",WR,21.8,IND
+73076,2023-06-02T08:45:43Z,16,11,281,0018,Rachel Woodford (@@tootsiepop6),14122,"Slayton, Darius",WR,26.4,NYG
+73076,2023-06-02T11:48:26Z,16,12,282,0009,Bart Greaton (@DefiKnights),9151,"O'Connell, Kevin",Coach,38,MIN
+73076,2023-06-02T12:04:35Z,16,13,283,0016,Gentan Schulteis (@GentanSchulteis),14227,"Wishnowsky, Mitch",PN,31.2,SFO
+73076,2023-06-02T12:33:21Z,16,14,284,0006,Steve Munger (@@stevenmunger),16181,"Brown, Chase",RB,23.2,CIN
+73076,2023-06-02T12:38:00Z,16,15,285,0007,Matt braun (@Beermatterz),15763,"Ross, Justyn",WR,23.5,KCC
+73076,2023-06-02T14:13:23Z,16,16,286,0014,Brian Schardt (@Schardt312),16194,"Rice, Rashee",WR,23.1,KCC
+73076,2023-06-02T14:53:37Z,16,17,287,0002,Sean Robinson (@@TheFFKoala),16212,"Mayer, Michael",TE,21.9,LVR
+73076,2023-06-02T15:20:51Z,16,18,288,0011,Brandon Pauley (@Statwizz_FFB),16149,"Levis, Will",QB,23.9,TEN
 74029,2023-05-18T16:29:25Z,01,01,1,0014,Chris Battistel (@@FFChrisB),13116,"Mahomes, Patrick",QB,27.7,KCC
 74029,2023-05-18T16:29:25Z,01,02,2,0004,Steven Perkins (@@flavorizethis),13589,"Allen, Josh",QB,27,BUF
 74029,2023-05-18T16:29:25Z,01,03,3,0008,Robert Stone (@stoney_burgh99),14836,"Jefferson, Justin",WR,23.9,MIN
